@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-14T18:09:39.619921",
-  "total": 1797,
+  "last_updated": "2026-04-15T14:51:06.893290",
+  "total": 1799,
   "videos": [
+    {
+      "id": "Y7J6rZ8nuhc",
+      "title": "(Karaoké) | La nature est en beau joual vert | Jaune",
+      "artist": "Jaune",
+      "song": "La nature est en beau joual vert",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Y7J6rZ8nuhc/mqdefault.jpg"
+    },
+    {
+      "id": "x_QTXVn22Rc",
+      "title": "(Karaoké+V.Chanté) | La nature est en beau joual vert | Jaune",
+      "artist": "Jaune",
+      "song": "La nature est en beau joual vert",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/x_QTXVn22Rc/mqdefault.jpg"
+    },
     {
       "id": "UypR551zkMw",
       "title": "(Karaoké) | Appel manqué | Gab Forest",
