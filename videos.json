@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-20T12:01:04.911199",
-  "total": 1809,
+  "last_updated": "2026-04-21T16:23:25.733010",
+  "total": 1813,
   "videos": [
+    {
+      "id": "wD-h2bUFXgg",
+      "title": "(Karaoké) | Je serai toujours là | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Je serai toujours là",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/wD-h2bUFXgg/mqdefault.jpg"
+    },
+    {
+      "id": "XZfcq4tj4co",
+      "title": "(Karaoké+V.Chanté) | Je serai toujours là | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Je serai toujours là",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/XZfcq4tj4co/mqdefault.jpg"
+    },
+    {
+      "id": "uMkGrJpJMxM",
+      "title": "(Karaoké) | Drapeaux blanc | Mitsou",
+      "artist": "Mitsou",
+      "song": "Drapeaux blanc",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/uMkGrJpJMxM/mqdefault.jpg"
+    },
+    {
+      "id": "O5UUUgO5ozg",
+      "title": "(Karaoké+V.Chanté) | Drapeaux blanc | Mitsou",
+      "artist": "Mitsou",
+      "song": "Drapeaux blanc",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/O5UUUgO5ozg/mqdefault.jpg"
+    },
     {
       "id": "meaOsjaGhlU",
       "title": "(Karaoké+V.Chanté) | Vivre d'amour | Dj.Pete",
@@ -4716,9 +4748,9 @@
     },
     {
       "id": "xIlPqRxv2DY",
-      "title": "Comment transposer une vidéos Karaoké à la volé",
+      "title": "Comment transposer une vidéos Karaoké à la volé [Hors-séries]",
       "artist": "Divers",
-      "song": "Comment transposer une vidéos Karaoké à la volé",
+      "song": "Comment transposer une vidéos Karaoké à la volé [Hors-séries]",
       "type": "autre",
       "thumb": "https://i.ytimg.com/vi/xIlPqRxv2DY/mqdefault.jpg"
     },
@@ -5748,9 +5780,9 @@
     },
     {
       "id": "lClVOYZnd5o",
-      "title": "1000 Abonnés, Merci!",
+      "title": "1000 Abonnés, Merci! [Hors séries]",
       "artist": "Divers",
-      "song": "1000 Abonnés, Merci!",
+      "song": "1000 Abonnés, Merci! [Hors séries]",
       "type": "autre",
       "thumb": "https://i.ytimg.com/vi/lClVOYZnd5o/mqdefault.jpg"
     },
