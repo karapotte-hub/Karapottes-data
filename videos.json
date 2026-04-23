@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T14:54:15.645307",
+  "last_updated": "2026-04-23T15:00:58.179988",
   "total": 1815,
   "videos": [
     {
@@ -2628,18 +2628,18 @@
     },
     {
       "id": "VpHImHvgrTg",
-      "title": "(Karaoke) | Jean-Pierre Ferland - Envoye à maison",
-      "artist": "(Karaoke) | Jean-Pierre Ferland",
+      "title": "(Karaoke) | Envoye à maison | Jean-Pierre Ferland",
+      "artist": "Jean-Pierre Ferland",
       "song": "Envoye à maison",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/VpHImHvgrTg/mqdefault.jpg"
     },
     {
       "id": "nqEfabS1xWM",
-      "title": "(Karaoke+V.Chanté) | Jean-Pierre Ferland - Envoye à maison",
-      "artist": "(Karaoke+V.Chanté) | Jean-Pierre Ferland",
+      "title": "(Karaoke+V.Chanté) | Envoye à maison | Jean-Pierre Ferland",
+      "artist": "Jean-Pierre Ferland",
       "song": "Envoye à maison",
-      "type": "karaoke",
+      "type": "voix",
       "thumb": "https://i.ytimg.com/vi/nqEfabS1xWM/mqdefault.jpg"
     },
     {
