@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T12:22:28.470379",
+  "last_updated": "2026-04-23T14:54:15.645307",
   "total": 1815,
   "videos": [
     {
@@ -844,16 +844,16 @@
     },
     {
       "id": "a4mCJ0msTaI",
-      "title": "(Karaoke) | Enmène pas ta gang | Beau dommage",
-      "artist": "Beau dommage",
+      "title": "(Karaoke) | Enmène pas ta gang | Beau Dommage",
+      "artist": "Beau Dommage",
       "song": "Enmène pas ta gang",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/a4mCJ0msTaI/mqdefault.jpg"
     },
     {
       "id": "pa_L0O6X-iI",
-      "title": "(Karaoke+V.Chanté) | Enmène pas ta gang | Beau dommage",
-      "artist": "Beau dommage",
+      "title": "(Karaoke+V.Chanté) | Enmène pas ta gang | Beau Dommage",
+      "artist": "Beau Dommage",
       "song": "Enmène pas ta gang",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/pa_L0O6X-iI/mqdefault.jpg"
@@ -1972,24 +1972,24 @@
     },
     {
       "id": "GiGzfxrSLtQ",
-      "title": "(Karaoke) | Coeur Léger | Andréanne A.Malette",
-      "artist": "Andréanne A.Malette",
+      "title": "(Karaoke) | Coeur Léger | Andréanne A. Malette",
+      "artist": "Andréanne A. Malette",
       "song": "Coeur Léger",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/GiGzfxrSLtQ/mqdefault.jpg"
     },
     {
       "id": "s3KUBTn_VWg",
-      "title": "(Karaoke+Back Vocal) | Coeur Léger | Andréanne A.Malette",
-      "artist": "Andréanne A.Malette",
+      "title": "(Karaoke+Back Vocal) | Coeur Léger | Andréanne A. Malette",
+      "artist": "Andréanne A. Malette",
       "song": "Coeur Léger",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/s3KUBTn_VWg/mqdefault.jpg"
     },
     {
       "id": "YKjJ0KqZawQ",
-      "title": "(Karaoke+V.Chanté) | Coeur Léger | Andréanne A.Malette",
-      "artist": "Andréanne A.Malette",
+      "title": "(Karaoke+V.Chanté) | Coeur Léger | Andréanne A. Malette",
+      "artist": "Andréanne A. Malette",
       "song": "Coeur Léger",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/YKjJ0KqZawQ/mqdefault.jpg"
@@ -2628,18 +2628,18 @@
     },
     {
       "id": "VpHImHvgrTg",
-      "title": "(Karaoke) | Pierre Ferland - Envoye à maison | Jean",
-      "artist": "Jean",
-      "song": "Pierre Ferland - Envoye à maison",
+      "title": "(Karaoke) | Jean-Pierre Ferland - Envoye à maison",
+      "artist": "(Karaoke) | Jean-Pierre Ferland",
+      "song": "Envoye à maison",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/VpHImHvgrTg/mqdefault.jpg"
     },
     {
       "id": "nqEfabS1xWM",
-      "title": "(Karaoke+V.Chanté) | Pierre Ferland - Envoye à maison | Jean",
-      "artist": "Jean",
-      "song": "Pierre Ferland - Envoye à maison",
-      "type": "voix",
+      "title": "(Karaoke+V.Chanté) | Jean-Pierre Ferland - Envoye à maison",
+      "artist": "(Karaoke+V.Chanté) | Jean-Pierre Ferland",
+      "song": "Envoye à maison",
+      "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/nqEfabS1xWM/mqdefault.jpg"
     },
     {
@@ -3252,24 +3252,24 @@
     },
     {
       "id": "l-zUTCodxHY",
-      "title": "(Karaoke) | Ici-Bas | La bottine souriante",
-      "artist": "La bottine souriante",
+      "title": "(Karaoke) | Ici-Bas | La Bottine Souriante",
+      "artist": "La Bottine Souriante",
       "song": "Ici-Bas",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/l-zUTCodxHY/mqdefault.jpg"
     },
     {
       "id": "ey4ETp_ec9Q",
-      "title": "(Karaoke+Back Vocal) | Ici-Bas | La bottine souriante",
-      "artist": "La bottine souriante",
+      "title": "(Karaoke+Back Vocal) | Ici-Bas | La Bottine Souriante",
+      "artist": "La Bottine Souriante",
       "song": "Ici-Bas",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/ey4ETp_ec9Q/mqdefault.jpg"
     },
     {
       "id": "IhK62j8tNcw",
-      "title": "(Karaoke+V.Chanté) | Ici-Bas | La bottine souriante",
-      "artist": "La bottine souriante",
+      "title": "(Karaoke+V.Chanté) | Ici-Bas | La Bottine Souriante",
+      "artist": "La Bottine Souriante",
       "song": "Ici-Bas",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/IhK62j8tNcw/mqdefault.jpg"
@@ -3652,16 +3652,16 @@
     },
     {
       "id": "bVEzSJUuM2g",
-      "title": "(Karaoke) | Le diable est aux vaches | Kain",
-      "artist": "Kain",
+      "title": "(Karaoke) | Le diable est aux vaches | Kaïn",
+      "artist": "Kaïn",
       "song": "Le diable est aux vaches",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/bVEzSJUuM2g/mqdefault.jpg"
     },
     {
       "id": "iUyrhvrLo88",
-      "title": "(Karaoke+V.Chanté) | Le diable est aux vaches | Kain",
-      "artist": "Kain",
+      "title": "(Karaoke+V.Chanté) | Le diable est aux vaches | Kaïn",
+      "artist": "Kaïn",
       "song": "Le diable est aux vaches",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/iUyrhvrLo88/mqdefault.jpg"
@@ -3924,8 +3924,8 @@
     },
     {
       "id": "pLG9ujPyIzE",
-      "title": "Dj Pete Présente - Et si c'était... du Country [Hors-Série]",
-      "artist": "Dj Pete Présente",
+      "title": "Dj.Pete Présente - Et si c'était... du Country [Hors-Série]",
+      "artist": "Dj.Pete Présente",
       "song": "Et si c'était... du Country [Hors-Série]",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/pLG9ujPyIzE/mqdefault.jpg"
@@ -4140,16 +4140,16 @@
     },
     {
       "id": "3k-ZG5uufmk",
-      "title": "Dj Pete - Scandale dans la famille (Karaoké)",
-      "artist": "Dj Pete",
+      "title": "Dj.Pete - Scandale dans la famille (Karaoké)",
+      "artist": "Dj.Pete",
       "song": "Scandale dans la famille",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/3k-ZG5uufmk/mqdefault.jpg"
     },
     {
       "id": "mBWaq1h9YfQ",
-      "title": "Dj Pete - Scandale dans la famille (Karaoké+V Chanté)",
-      "artist": "Dj Pete",
+      "title": "Dj.Pete - Scandale dans la famille (Karaoké+V Chanté)",
+      "artist": "Dj.Pete",
       "song": "Scandale dans la famille",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/mBWaq1h9YfQ/mqdefault.jpg"
@@ -5228,16 +5228,16 @@
     },
     {
       "id": "X3Sc2Vu0N0g",
-      "title": "Dj.Pete.Remix - Mets ta forme... ose! (Karaoké)",
-      "artist": "Dj.Pete.Remix",
+      "title": "Dj.Pete - Mets ta forme... ose! (Karaoké)",
+      "artist": "Dj.Pete",
       "song": "Mets ta forme... ose!",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/X3Sc2Vu0N0g/mqdefault.jpg"
     },
     {
       "id": "ubPjrbaD84c",
-      "title": "Dj.Pete.Remix - Mets ta forme... ose! (Karaoké+V.Chanté)",
-      "artist": "Dj.Pete.Remix",
+      "title": "Dj.Pete - Mets ta forme... ose! (Karaoké+V.Chanté)",
+      "artist": "Dj.Pete",
       "song": "Mets ta forme... ose!",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/ubPjrbaD84c/mqdefault.jpg"
@@ -5412,16 +5412,16 @@
     },
     {
       "id": "dmDHtmXYytk",
-      "title": "Dj.Pete {Oneil Devost} - En Harley-Davidson (Cover) (Karaoké)",
-      "artist": "Dj.Pete {Oneil Devost}",
+      "title": "Dj.Pete - En Harley-Davidson (Cover) (Karaoké)",
+      "artist": "Dj.Pete",
       "song": "En Harley-Davidson (Cover)",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/dmDHtmXYytk/mqdefault.jpg"
     },
     {
       "id": "QRhBNJJUKBI",
-      "title": "Dj.Pete {Oneil Devost} - En Harley-Davidson (Cover) (Karaoké+V.Chanté)",
-      "artist": "Dj.Pete {Oneil Devost}",
+      "title": "Dj.Pete - En Harley-Davidson (Cover) (Karaoké+V.Chanté)",
+      "artist": "Dj.Pete",
       "song": "En Harley-Davidson (Cover)",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/QRhBNJJUKBI/mqdefault.jpg"
@@ -5724,16 +5724,16 @@
     },
     {
       "id": "QmKxDFauvic",
-      "title": "La chicane - Quand ca va ben (Karaoké)",
-      "artist": "La chicane",
+      "title": "La Chicane - Quand ca va ben (Karaoké)",
+      "artist": "La Chicane",
       "song": "Quand ca va ben",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/QmKxDFauvic/mqdefault.jpg"
     },
     {
       "id": "fQgNW4TQf6A",
-      "title": "La chicane - Quand ca va ben (Karaoké+V.Chanté)",
-      "artist": "La chicane",
+      "title": "La Chicane - Quand ca va ben (Karaoké+V.Chanté)",
+      "artist": "La Chicane",
       "song": "Quand ca va ben",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/fQgNW4TQf6A/mqdefault.jpg"
@@ -6372,24 +6372,24 @@
     },
     {
       "id": "YVBxD5LW2zg",
-      "title": "François. Pérusse - C'est belle une fille (Karaoké)",
-      "artist": "François. Pérusse",
+      "title": "François Pérusse - C'est belle une fille (Karaoké)",
+      "artist": "François Pérusse",
       "song": "C'est belle une fille",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/YVBxD5LW2zg/mqdefault.jpg"
     },
     {
       "id": "b0qvNODSu-o",
-      "title": "François. Pérusse - C'est belle une fille (Karaoké+Back Vocal)",
-      "artist": "François. Pérusse",
+      "title": "François Pérusse - C'est belle une fille (Karaoké+Back Vocal)",
+      "artist": "François Pérusse",
       "song": "C'est belle une fille",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/b0qvNODSu-o/mqdefault.jpg"
     },
     {
       "id": "aXm4YSB35YI",
-      "title": "François. Pérusse - C'est belle une fille (Karaoké+V.Chanté)",
-      "artist": "François. Pérusse",
+      "title": "François Pérusse - C'est belle une fille (Karaoké+V.Chanté)",
+      "artist": "François Pérusse",
       "song": "C'est belle une fille",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/aXm4YSB35YI/mqdefault.jpg"
@@ -7292,16 +7292,16 @@
     },
     {
       "id": "YzjJdchXvTE",
-      "title": "Andréanne.A Malette - Léa Jarry - Trudy - Une rose à la fois (Karaoké)",
-      "artist": "Andréanne.A Malette",
+      "title": "Andréanne A. Malette - Léa Jarry - Trudy - Une rose à la fois (Karaoké)",
+      "artist": "Andréanne A. Malette",
       "song": "Léa Jarry - Trudy - Une rose à la fois",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/YzjJdchXvTE/mqdefault.jpg"
     },
     {
       "id": "skafFqhVCNM",
-      "title": "Andréanne.A Malette - Léa Jarry - Trudy - Une rose à la fois (Karaoké+V.Chanté)",
-      "artist": "Andréanne.A Malette",
+      "title": "Andréanne A. Malette - Léa Jarry - Trudy - Une rose à la fois (Karaoké+V.Chanté)",
+      "artist": "Andréanne A. Malette",
       "song": "Léa Jarry - Trudy - Une rose à la fois",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/skafFqhVCNM/mqdefault.jpg"
@@ -8932,16 +8932,16 @@
     },
     {
       "id": "HtXAS-1uOdY",
-      "title": "Annie Villeveuve - Je voudrais voir la mer (Karaoké+Back Vocal)",
-      "artist": "Annie Villeveuve",
+      "title": "Annie Villeneuve - Je voudrais voir la mer (Karaoké+Back Vocal)",
+      "artist": "Annie Villeneuve",
       "song": "Je voudrais voir la mer",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/HtXAS-1uOdY/mqdefault.jpg"
     },
     {
       "id": "PrIM68VUwKI",
-      "title": "Annie Villeveuve - Je voudrais voir la mer (Karaoké+V.Chanté)",
-      "artist": "Annie Villeveuve",
+      "title": "Annie Villeneuve - Je voudrais voir la mer (Karaoké+V.Chanté)",
+      "artist": "Annie Villeneuve",
       "song": "Je voudrais voir la mer",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/PrIM68VUwKI/mqdefault.jpg"
@@ -9612,16 +9612,16 @@
     },
     {
       "id": "CYdmNZSofEc",
-      "title": "Jacque Michel - Salut Léon (Karaoké+V.Chanté)",
-      "artist": "Jacque Michel",
+      "title": "Jacques Michel - Salut Léon (Karaoké+V.Chanté)",
+      "artist": "Jacques Michel",
       "song": "Salut Léon",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/CYdmNZSofEc/mqdefault.jpg"
     },
     {
       "id": "ap57IKujftE",
-      "title": "Jacque Michel - Salut Léon (Karaoké)",
-      "artist": "Jacque Michel",
+      "title": "Jacques Michel - Salut Léon (Karaoké)",
+      "artist": "Jacques Michel",
       "song": "Salut Léon",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/ap57IKujftE/mqdefault.jpg"
@@ -9708,8 +9708,8 @@
     },
     {
       "id": "WskSVG-Z8g4",
-      "title": "Ce soir on dance - Cocktail Bonbon (Karaoké)",
-      "artist": "Ce soir on dance",
+      "title": "Ce soir on danse - Cocktail Bonbon (Karaoké)",
+      "artist": "Ce soir on danse",
       "song": "Cocktail Bonbon",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/WskSVG-Z8g4/mqdefault.jpg"
@@ -10452,8 +10452,8 @@
     },
     {
       "id": "wiKZIp-AWN4",
-      "title": "Les années yéyé - Do Wha Diddy Diddy (Karaoké+Back Vocal)",
-      "artist": "Les années yéyé",
+      "title": "Les Années YéYé - Do Wha Diddy Diddy (Karaoké+Back Vocal)",
+      "artist": "Les Années YéYé",
       "song": "Do Wha Diddy Diddy",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/wiKZIp-AWN4/mqdefault.jpg"
@@ -10572,8 +10572,8 @@
     },
     {
       "id": "qQOl93RWzq4",
-      "title": "Les Années Yéyé - La poupée qui fait non (Karaoké+Back Vocal)",
-      "artist": "Les Années Yéyé",
+      "title": "Les Années YéYé - La poupée qui fait non (Karaoké+Back Vocal)",
+      "artist": "Les Années YéYé",
       "song": "La poupée qui fait non",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/qQOl93RWzq4/mqdefault.jpg"
@@ -10804,8 +10804,8 @@
     },
     {
       "id": "IPsAg3BIO8A",
-      "title": "France d'Amour - L'appât des mots (Karaoké+Back Vocal)",
-      "artist": "France d'Amour",
+      "title": "France D'Amour - L'appât des mots (Karaoké+Back Vocal)",
+      "artist": "France D'Amour",
       "song": "L'appât des mots",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/IPsAg3BIO8A/mqdefault.jpg"
@@ -11444,8 +11444,8 @@
     },
     {
       "id": "HHSqe4N6mgs",
-      "title": "La Botine Souriante - La Ziguezon (Karaoké+Back Vocal) [Fêtes]",
-      "artist": "La Botine Souriante",
+      "title": "La Bottine Souriante - La Ziguezon (Karaoké+Back Vocal) [Fêtes]",
+      "artist": "La Bottine Souriante",
       "song": "La Ziguezon (Karaoké+Back Vocal) [Fêtes]",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/HHSqe4N6mgs/mqdefault.jpg"
@@ -11796,8 +11796,8 @@
     },
     {
       "id": "O76jVUwo6MI",
-      "title": "Andréanne A. Mallette - Fou (Karaoké)",
-      "artist": "Andréanne A. Mallette",
+      "title": "Andréanne A. Malette - Fou (Karaoké)",
+      "artist": "Andréanne A. Malette",
       "song": "Fou",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/O76jVUwo6MI/mqdefault.jpg"
@@ -11852,9 +11852,9 @@
     },
     {
       "id": "NsrbcCqEgXc",
-      "title": "Eric Lapointe - Terre promiose (Karaoké)",
-      "artist": "Eric Lapointe",
-      "song": "Terre promiose",
+      "title": "Éric Lapointe - Terre promise (Karaoké)",
+      "artist": "Éric Lapointe",
+      "song": "Terre promise",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/NsrbcCqEgXc/mqdefault.jpg"
     },
@@ -11964,16 +11964,16 @@
     },
     {
       "id": "um2NBGYseyc",
-      "title": "Les B.B - Twist de nuit (Karaoké+Back Vocal)",
-      "artist": "Les B.B",
+      "title": "Les BB - Twist de nuit (Karaoké+Back Vocal)",
+      "artist": "Les BB",
       "song": "Twist de nuit",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/um2NBGYseyc/mqdefault.jpg"
     },
     {
       "id": "uUv9IBA4YCI",
-      "title": "Les B.B - Twist de nuit (Karaoké)",
-      "artist": "Les B.B",
+      "title": "Les BB - Twist de nuit (Karaoké)",
+      "artist": "Les BB",
       "song": "Twist de nuit",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/uUv9IBA4YCI/mqdefault.jpg"
@@ -12500,8 +12500,8 @@
     },
     {
       "id": "W-uT7p-STwc",
-      "title": "Laurence St Martin - Filles des iles (Karaoké)",
-      "artist": "Laurence St Martin",
+      "title": "Laurence St-Martin - Filles des iles (Karaoké)",
+      "artist": "Laurence St-Martin",
       "song": "Filles des iles",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/W-uT7p-STwc/mqdefault.jpg"
@@ -13420,8 +13420,8 @@
     },
     {
       "id": "S8oI3p6iYWk",
-      "title": "Beau dommage - Ginette (Karaoké)",
-      "artist": "Beau dommage",
+      "title": "Beau Dommage - Ginette (Karaoké)",
+      "artist": "Beau Dommage",
       "song": "Ginette",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/S8oI3p6iYWk/mqdefault.jpg"
@@ -14004,8 +14004,8 @@
     },
     {
       "id": "30WqPG7lLRU",
-      "title": "Kain - Un samedi soir Québécois (Karaoké)",
-      "artist": "Kain",
+      "title": "Kaïn - Un samedi soir Québécois (Karaoké)",
+      "artist": "Kaïn",
       "song": "Un samedi soir Québécois",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/30WqPG7lLRU/mqdefault.jpg"
@@ -14116,8 +14116,8 @@
     },
     {
       "id": "KsWOc_eIxmI",
-      "title": "Kain - Embarque ma belle (Karaoké)",
-      "artist": "Kain",
+      "title": "Kaïn - Embarque ma belle (Karaoké)",
+      "artist": "Kaïn",
       "song": "Embarque ma belle",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/KsWOc_eIxmI/mqdefault.jpg"
@@ -14172,8 +14172,8 @@
     },
     {
       "id": "HdZUBWC4rxk",
-      "title": "Brigitte Boisjolie  - Rill pour rire (Karaoké)",
-      "artist": "Brigitte Boisjolie",
+      "title": "Brigitte Boisjoli  - Rill pour rire (Karaoké)",
+      "artist": "Brigitte Boisjoli",
       "song": "Rill pour rire",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/HdZUBWC4rxk/mqdefault.jpg"
