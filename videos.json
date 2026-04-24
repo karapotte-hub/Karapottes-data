@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-04-23T16:12:39.982768",
-  "total": 1815,
+  "last_updated": "2026-04-24T15:32:51.692544",
+  "total": 1818,
   "videos": [
+    {
+      "id": "f7tF9ri6Ty8",
+      "title": "(Karaoké) | Six heures moins quart | Jean-Rock Cummings",
+      "artist": "Jean-Rock Cummings",
+      "song": "Six heures moins quart",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/f7tF9ri6Ty8/mqdefault.jpg"
+    },
+    {
+      "id": "51ub806FKHo",
+      "title": "(Karaoké+V.Chanté) | Six heures moins quart | Jean-Rock Cummings",
+      "artist": "Jean-Rock Cummings",
+      "song": "Six heures moins quart",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/51ub806FKHo/mqdefault.jpg"
+    },
+    {
+      "id": "BYwMGmVXnoY",
+      "title": "[Hors Série] Hors du cadre",
+      "artist": "Divers",
+      "song": "[Hors Série] Hors du cadre",
+      "type": "autre",
+      "thumb": "https://i.ytimg.com/vi/BYwMGmVXnoY/mqdefault.jpg"
+    },
     {
       "id": "ELT-AdUuu84",
       "title": "(Karaoké) | Tout seul | Q.R.B.P",
