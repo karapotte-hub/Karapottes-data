@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-09T14:35:09.804030",
-  "total": 1865,
+  "last_updated": "2026-05-10T10:05:46.282591",
+  "total": 1868,
   "channel_name": "Les Karapottés",
   "subscribers": 1630,
-  "total_views": 669958,
-  "video_count": 1864,
+  "total_views": 670503,
+  "video_count": 1867,
   "videos": [
+    {
+      "id": "qtEj47N86Jo",
+      "title": "(Karaoké) | Bonne nuit  maman | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Bonne nuit  maman",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/qtEj47N86Jo/mqdefault.jpg"
+    },
+    {
+      "id": "UholJMCU7fU",
+      "title": "(Karaoké+Back Vocal) | Bonne nuit  maman | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Bonne nuit  maman",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/UholJMCU7fU/mqdefault.jpg"
+    },
+    {
+      "id": "zQ3Wxqw1w_M",
+      "title": "(Karaoké+V.Chanté) | Bonne nuit  maman | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Bonne nuit  maman",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/zQ3Wxqw1w_M/mqdefault.jpg"
+    },
     {
       "id": "J_uLqqRh9t0",
       "title": "(Karaoké) | Samedi soir à Macaza | Veranda",
