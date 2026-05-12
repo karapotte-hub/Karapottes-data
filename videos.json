@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-05-10T10:05:46.282591",
-  "total": 1868,
+  "last_updated": "2026-05-12T11:15:00.395630",
+  "total": 1874,
   "channel_name": "Les Karapottés",
-  "subscribers": 1630,
-  "total_views": 670503,
-  "video_count": 1867,
+  "subscribers": 1650,
+  "total_views": 673120,
+  "video_count": 1873,
   "videos": [
+    {
+      "id": "d1-xmcPMgUM",
+      "title": "(Karaoké) | Tu es là | Ginette Reno",
+      "artist": "Ginette Reno",
+      "song": "Tu es là",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/d1-xmcPMgUM/mqdefault.jpg"
+    },
+    {
+      "id": "ghq9C04V8zg",
+      "title": "(Karaoké+V.Chanté) | Tu es là | Ginette Reno",
+      "artist": "Ginette Reno",
+      "song": "Tu es là",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/ghq9C04V8zg/mqdefault.jpg"
+    },
+    {
+      "id": "SiQnr-AXabE",
+      "title": "(Karaoké+V.Chanté) | Je suis tu es | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Je suis tu es",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/SiQnr-AXabE/mqdefault.jpg"
+    },
+    {
+      "id": "dW9AFJJrDWA",
+      "title": "(Karaoké) | Je suis tu es | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Je suis tu es",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/dW9AFJJrDWA/mqdefault.jpg"
+    },
+    {
+      "id": "RU-bsqadzQg",
+      "title": "(Karaoké) | Je suis tu es | René Simard",
+      "artist": "René Simard",
+      "song": "Je suis tu es",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/RU-bsqadzQg/mqdefault.jpg"
+    },
+    {
+      "id": "HwKMRCdpL_E",
+      "title": "(Karaoké+V.Chanté) | Je suis tu es | René Simard",
+      "artist": "René Simard",
+      "song": "Je suis tu es",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/HwKMRCdpL_E/mqdefault.jpg"
+    },
     {
       "id": "qtEj47N86Jo",
       "title": "(Karaoké) | Bonne nuit  maman | Dj.Pete",
