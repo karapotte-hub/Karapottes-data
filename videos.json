@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-05-18T12:08:46.955757",
-  "total": 1896,
+  "last_updated": "2026-05-18T16:52:27.651703",
+  "total": 1901,
   "channel_name": "Les Karapottés",
   "subscribers": 1650,
   "total_views": 681215,
-  "video_count": 1895,
+  "video_count": 1900,
   "videos": [
+    {
+      "id": "rfTO6UUMxHo",
+      "title": "(Karaoké) | J'suis fauché V.2 | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "J'suis fauché V.2",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/rfTO6UUMxHo/mqdefault.jpg"
+    },
+    {
+      "id": "yaxSE6YNi4s",
+      "title": "(Karaoké+V.Chanté) | J'suis fauché V.2 | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "J'suis fauché V.2",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/yaxSE6YNi4s/mqdefault.jpg"
+    },
+    {
+      "id": "vptRGJ29lqw",
+      "title": "Karaoké   J'suis fauché #shorts 1",
+      "artist": "Divers",
+      "song": "Karaoké   J'suis fauché #shorts 1",
+      "type": "autre",
+      "thumb": "https://i.ytimg.com/vi/vptRGJ29lqw/mqdefault.jpg"
+    },
+    {
+      "id": "Mt8BQ33jByI",
+      "title": "(Karaoké) | J'suis fauché V.1 | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "J'suis fauché V.1",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Mt8BQ33jByI/mqdefault.jpg"
+    },
+    {
+      "id": "Lrfvt7eu69Y",
+      "title": "(Karaoké+V.Chanté) | J'suis fauché V.1 | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "J'suis fauché V.1",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Lrfvt7eu69Y/mqdefault.jpg"
+    },
     {
       "id": "2bU_zQmmLiE",
       "title": "(Karaoké) | La vallée des réputations | Jean Leloup",
