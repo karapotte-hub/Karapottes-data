@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-05-18T16:52:27.651703",
-  "total": 1901,
+  "last_updated": "2026-05-20T09:57:18.305217",
+  "total": 1907,
   "channel_name": "Les Karapottés",
-  "subscribers": 1650,
-  "total_views": 681215,
-  "video_count": 1900,
+  "subscribers": 1660,
+  "total_views": 682303,
+  "video_count": 1906,
   "videos": [
+    {
+      "id": "BP2KPT6WmH8",
+      "title": "(Karaoké) | Veux-tu valser grand-maman | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Veux-tu valser grand-maman",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/BP2KPT6WmH8/mqdefault.jpg"
+    },
+    {
+      "id": "8O0e_G-q2jU",
+      "title": "(Karaoké+V.Chanté) | Veux-tu valser grand-maman | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Veux-tu valser grand-maman",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/8O0e_G-q2jU/mqdefault.jpg"
+    },
+    {
+      "id": "GWblzM5MC9s",
+      "title": "(Karaoké) | Arrange-toi avec ça | Bernard Adamus",
+      "artist": "Bernard Adamus",
+      "song": "Arrange-toi avec ça",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/GWblzM5MC9s/mqdefault.jpg"
+    },
+    {
+      "id": "mGkb4VKvhMg",
+      "title": "(Karaoké+V.Chanté) | Arrange-toi avec ça | Bernard Adamus",
+      "artist": "Bernard Adamus",
+      "song": "Arrange-toi avec ça",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/mGkb4VKvhMg/mqdefault.jpg"
+    },
+    {
+      "id": "e28Vf9mJnTE",
+      "title": "(Karaoké) | Une belle dans tête | Éric Lapointe",
+      "artist": "Éric Lapointe",
+      "song": "Une belle dans tête",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/e28Vf9mJnTE/mqdefault.jpg"
+    },
+    {
+      "id": "_vusnA80VGs",
+      "title": "(Karaoké+V.Chanté) | Une belle dans tête | Éric Lapointe",
+      "artist": "Éric Lapointe",
+      "song": "Une belle dans tête",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/_vusnA80VGs/mqdefault.jpg"
+    },
     {
       "id": "rfTO6UUMxHo",
       "title": "(Karaoké) | J'suis fauché V.2 | Dj.Pete",
