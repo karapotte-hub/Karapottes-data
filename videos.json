@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-20T09:57:18.305217",
-  "total": 1907,
+  "last_updated": "2026-05-20T12:55:12.275587",
+  "total": 1909,
   "channel_name": "Les Karapottés",
   "subscribers": 1660,
   "total_views": 682303,
-  "video_count": 1906,
+  "video_count": 1908,
   "videos": [
+    {
+      "id": "zw2IC9ibJ-s",
+      "title": "(Karaoké) | Que je t'étranglerai | Fred Fortin",
+      "artist": "Fred Fortin",
+      "song": "Que je t'étranglerai",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/zw2IC9ibJ-s/mqdefault.jpg"
+    },
+    {
+      "id": "zuhTfmYLRzo",
+      "title": "(Karaoké+V.Chanté) | Que je t'étranglerai | Fred Fortin",
+      "artist": "Fred Fortin",
+      "song": "Que je t'étranglerai",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/zuhTfmYLRzo/mqdefault.jpg"
+    },
     {
       "id": "BP2KPT6WmH8",
       "title": "(Karaoké) | Veux-tu valser grand-maman | Dj.Pete",
