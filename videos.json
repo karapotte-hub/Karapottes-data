@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-20T12:55:12.275587",
-  "total": 1909,
+  "last_updated": "2026-05-20T21:06:15.647366",
+  "total": 1912,
   "channel_name": "Les Karapottés",
   "subscribers": 1660,
   "total_views": 682303,
-  "video_count": 1908,
+  "video_count": 1911,
   "videos": [
+    {
+      "id": "CUjt-XVoPjE",
+      "title": "(Karaoké) | Locomotion | Ginette Reno",
+      "artist": "Ginette Reno",
+      "song": "Locomotion",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/CUjt-XVoPjE/mqdefault.jpg"
+    },
+    {
+      "id": "4ua_71URU3M",
+      "title": "(Karaoké+Back Vocal) | Locomotion | Ginette Reno",
+      "artist": "Ginette Reno",
+      "song": "Locomotion",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/4ua_71URU3M/mqdefault.jpg"
+    },
+    {
+      "id": "DcBgWGIFfFU",
+      "title": "(Karaoké+V.Chanté) | Locomotion | Ginette Reno",
+      "artist": "Ginette Reno",
+      "song": "Locomotion",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/DcBgWGIFfFU/mqdefault.jpg"
+    },
     {
       "id": "zw2IC9ibJ-s",
       "title": "(Karaoké) | Que je t'étranglerai | Fred Fortin",
