@@ -1,11 +1,75 @@
 {
-  "last_updated": "2026-05-21T14:32:38.873693",
-  "total": 1914,
+  "last_updated": "2026-05-24T15:01:40.983409",
+  "total": 1922,
   "channel_name": "Les Karapottés",
   "subscribers": 1660,
-  "total_views": 683727,
-  "video_count": 1913,
+  "total_views": 688402,
+  "video_count": 1921,
   "videos": [
+    {
+      "id": "tPcPqhuboTE",
+      "title": "(Karaoké) | Plus jamais la mer | Lina Boudreau",
+      "artist": "Lina Boudreau",
+      "song": "Plus jamais la mer",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/tPcPqhuboTE/mqdefault.jpg"
+    },
+    {
+      "id": "ZRZwGrPJkEc",
+      "title": "(Karaoké+Back Vocal) | Plus jamais la mer | Lina Boudreau",
+      "artist": "Lina Boudreau",
+      "song": "Plus jamais la mer",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/ZRZwGrPJkEc/mqdefault.jpg"
+    },
+    {
+      "id": "SvW9_46Z3dU",
+      "title": "(Karaoké+V.Chanté) | Plus jamais la mer | Lina Boudreau",
+      "artist": "Lina Boudreau",
+      "song": "Plus jamais la mer",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/SvW9_46Z3dU/mqdefault.jpg"
+    },
+    {
+      "id": "hEyjAG66OFY",
+      "title": "(Karaoké) | Le tango des concaves | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Le tango des concaves",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/hEyjAG66OFY/mqdefault.jpg"
+    },
+    {
+      "id": "YFPj9rvfqUo",
+      "title": "(Karaoké+V.Chanté) | Le tango des concaves | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Le tango des concaves",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/YFPj9rvfqUo/mqdefault.jpg"
+    },
+    {
+      "id": "Ujx60UNcqpo",
+      "title": "(Karaoké) | Faire la paix avec l'amour | Dany Bédard",
+      "artist": "Dany Bédard",
+      "song": "Faire la paix avec l'amour",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Ujx60UNcqpo/mqdefault.jpg"
+    },
+    {
+      "id": "E170oiN8S2Y",
+      "title": "(Karaoké+Back Vocal) | Faire la paix avec l'amour | Dany Bédard",
+      "artist": "Dany Bédard",
+      "song": "Faire la paix avec l'amour",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/E170oiN8S2Y/mqdefault.jpg"
+    },
+    {
+      "id": "yEXghPXaPT8",
+      "title": "(Karaoké+V.Chanté) | Faire la paix avec l'amour | Dany Bédard",
+      "artist": "Dany Bédard",
+      "song": "Faire la paix avec l'amour",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/yEXghPXaPT8/mqdefault.jpg"
+    },
     {
       "id": "fXXsY5GeeqU",
       "title": "(Karaoké) | Et puis merde | Roxane Bruneau",
