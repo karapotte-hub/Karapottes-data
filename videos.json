@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-25T12:56:28.664562",
-  "total": 1924,
+  "last_updated": "2026-05-26T15:25:42.303075",
+  "total": 1926,
   "channel_name": "Les Karapottés",
-  "subscribers": 1670,
-  "total_views": 689468,
-  "video_count": 1923,
+  "subscribers": 1660,
+  "total_views": 690460,
+  "video_count": 1925,
   "videos": [
+    {
+      "id": "OZfgCoIva2M",
+      "title": "(Karaoké) | Le téléfon | Patrick Zabbé",
+      "artist": "Patrick Zabbé",
+      "song": "Le téléfon",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/OZfgCoIva2M/mqdefault.jpg"
+    },
+    {
+      "id": "hGoSreetcik",
+      "title": "(Karaoké+V.Chanté) | Le téléfon | Patrick Zabbé",
+      "artist": "Patrick Zabbé",
+      "song": "Le téléfon",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/hGoSreetcik/mqdefault.jpg"
+    },
     {
       "id": "2b1VbRf3npA",
       "title": "(Karaoké) | Gaspésie | Irvin Blais",
