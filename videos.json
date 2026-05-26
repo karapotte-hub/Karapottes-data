@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-26T15:25:42.303075",
-  "total": 1926,
+  "last_updated": "2026-05-26T19:53:34.688385",
+  "total": 1928,
   "channel_name": "Les Karapottés",
   "subscribers": 1660,
   "total_views": 690460,
-  "video_count": 1925,
+  "video_count": 1927,
   "videos": [
+    {
+      "id": "xUY5mxnRfI0",
+      "title": "(Karaoké) | Je veux croire encore | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Je veux croire encore",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/xUY5mxnRfI0/mqdefault.jpg"
+    },
+    {
+      "id": "KkTKgcWG-fQ",
+      "title": "(Karaoké+V.Chanté) | Je veux croire encore | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Je veux croire encore",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/KkTKgcWG-fQ/mqdefault.jpg"
+    },
     {
       "id": "OZfgCoIva2M",
       "title": "(Karaoké) | Le téléfon | Patrick Zabbé",
