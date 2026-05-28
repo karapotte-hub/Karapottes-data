@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-27T21:48:57.036107",
-  "total": 1931,
+  "last_updated": "2026-05-28T12:03:42.458203",
+  "total": 1934,
   "channel_name": "Les Karapottés",
-  "subscribers": 1660,
-  "total_views": 691478,
-  "video_count": 1930,
+  "subscribers": 1670,
+  "total_views": 691842,
+  "video_count": 1933,
   "videos": [
+    {
+      "id": "P5PZgEMKSHw",
+      "title": "(Karaoké) | Achy breaky dance | Stef Carse",
+      "artist": "Stef Carse",
+      "song": "Achy breaky dance",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/P5PZgEMKSHw/mqdefault.jpg"
+    },
+    {
+      "id": "B8kGrNk-cLg",
+      "title": "(Karaoké+Back Vocal) | Achy breaky dance | Stef Carse",
+      "artist": "Stef Carse",
+      "song": "Achy breaky dance",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/B8kGrNk-cLg/mqdefault.jpg"
+    },
+    {
+      "id": "igailV1UBbY",
+      "title": "(Karaoké+V.Chanté) | Achy breaky dance | Stef Carse",
+      "artist": "Stef Carse",
+      "song": "Achy breaky dance",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/igailV1UBbY/mqdefault.jpg"
+    },
     {
       "id": "JsRqd0h5PFQ",
       "title": "(Karaoké) | Medley | Pierre Lalonde",
