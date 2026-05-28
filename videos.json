@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-26T23:15:24.736584",
-  "total": 1928,
+  "last_updated": "2026-05-27T21:48:57.036107",
+  "total": 1931,
   "channel_name": "Les Karapottés",
   "subscribers": 1660,
-  "total_views": 690460,
-  "video_count": 1927,
+  "total_views": 691478,
+  "video_count": 1930,
   "videos": [
+    {
+      "id": "JsRqd0h5PFQ",
+      "title": "(Karaoké) | Medley | Pierre Lalonde",
+      "artist": "Pierre Lalonde",
+      "song": "Medley",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/JsRqd0h5PFQ/mqdefault.jpg"
+    },
+    {
+      "id": "SODwpFdmsMw",
+      "title": "(Karaoké+Back Vocal) | Medley | Pierre Lalonde",
+      "artist": "Pierre Lalonde",
+      "song": "Medley",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/SODwpFdmsMw/mqdefault.jpg"
+    },
+    {
+      "id": "oA2xaw5cCJY",
+      "title": "(Karaoké+V.Chanté) | Medley | Pierre Lalonde",
+      "artist": "Pierre Lalonde",
+      "song": "Medley",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/oA2xaw5cCJY/mqdefault.jpg"
+    },
     {
       "id": "xUY5mxnRfI0",
       "title": "(Karaoké) | Je veux croire encore | Dj.Pete",
