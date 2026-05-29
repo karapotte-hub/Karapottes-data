@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-28T12:03:42.458203",
-  "total": 1934,
+  "last_updated": "2026-05-29T15:13:51.803929",
+  "total": 1936,
   "channel_name": "Les Karapottés",
   "subscribers": 1670,
-  "total_views": 691842,
-  "video_count": 1933,
+  "total_views": 693959,
+  "video_count": 1935,
   "videos": [
+    {
+      "id": "47SupYVHXZ4",
+      "title": "(Karaoké) | Embarques-tu | Daniel Boucher",
+      "artist": "Daniel Boucher",
+      "song": "Embarques-tu",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/47SupYVHXZ4/mqdefault.jpg"
+    },
+    {
+      "id": "bLNJe7o9RTs",
+      "title": "(Karaoké+V.Chanté) | Embarques-tu | Daniel Boucher",
+      "artist": "Daniel Boucher",
+      "song": "Embarques-tu",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/bLNJe7o9RTs/mqdefault.jpg"
+    },
     {
       "id": "P5PZgEMKSHw",
       "title": "(Karaoké) | Achy breaky dance | Stef Carse",
