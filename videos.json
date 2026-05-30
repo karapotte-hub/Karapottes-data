@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-29T15:13:51.803929",
-  "total": 1936,
+  "last_updated": "2026-05-30T15:09:54.562848",
+  "total": 1939,
   "channel_name": "Les Karapottés",
   "subscribers": 1670,
-  "total_views": 693959,
-  "video_count": 1935,
+  "total_views": 696974,
+  "video_count": 1938,
   "videos": [
+    {
+      "id": "GtpTLkWmlq0",
+      "title": "(Karaoké) | Aimer | Liam",
+      "artist": "Liam",
+      "song": "Aimer",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/GtpTLkWmlq0/mqdefault.jpg"
+    },
+    {
+      "id": "GhcSVvahOCE",
+      "title": "(Karaoké+V.Chanté) | Aimer | Liam",
+      "artist": "Liam",
+      "song": "Aimer",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/GhcSVvahOCE/mqdefault.jpg"
+    },
+    {
+      "id": "rW_2y5Pz59I",
+      "title": "[Hors-séries] - Figurant dans ma vie",
+      "artist": "[Hors-séries]",
+      "song": "Figurant dans ma vie",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/rW_2y5Pz59I/mqdefault.jpg"
+    },
     {
       "id": "47SupYVHXZ4",
       "title": "(Karaoké) | Embarques-tu | Daniel Boucher",
