@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-30T15:09:54.562848",
-  "total": 1939,
+  "last_updated": "2026-06-02T17:15:33.733054",
+  "total": 1941,
   "channel_name": "Les Karapottés",
-  "subscribers": 1670,
-  "total_views": 696974,
-  "video_count": 1938,
+  "subscribers": 1680,
+  "total_views": 700603,
+  "video_count": 1940,
   "videos": [
+    {
+      "id": "HctD4Dzsqv4",
+      "title": "(Karaoké) | J'ai 12 ans | Charlotte Cardin",
+      "artist": "Charlotte Cardin",
+      "song": "J'ai 12 ans",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/HctD4Dzsqv4/mqdefault.jpg"
+    },
+    {
+      "id": "QZ0YzqqpRxY",
+      "title": "(Karaoké+V.Chanté) | J'ai 12 ans | Charlotte Cardin",
+      "artist": "Charlotte Cardin",
+      "song": "J'ai 12 ans",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/QZ0YzqqpRxY/mqdefault.jpg"
+    },
     {
       "id": "GtpTLkWmlq0",
       "title": "(Karaoké) | Aimer | Liam",
