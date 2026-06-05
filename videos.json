@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-06-03T18:08:47.871323",
-  "total": 1943,
+  "last_updated": "2026-06-05T13:29:43.407885",
+  "total": 1946,
   "channel_name": "Les Karapottés",
-  "subscribers": 1680,
-  "total_views": 701527,
-  "video_count": 1942,
+  "subscribers": 1690,
+  "total_views": 702831,
+  "video_count": 1945,
   "videos": [
+    {
+      "id": "aYdwtAllEoc",
+      "title": "(Karaoké) | La ballade des gens heureux | Gérard Lenormand",
+      "artist": "Gérard Lenormand",
+      "song": "La ballade des gens heureux",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/aYdwtAllEoc/mqdefault.jpg"
+    },
+    {
+      "id": "SBPTdaqfEzw",
+      "title": "(Karaoké+Back Vocal) | La ballade des gens heureux | Gérard Lenormand",
+      "artist": "Gérard Lenormand",
+      "song": "La ballade des gens heureux",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/SBPTdaqfEzw/mqdefault.jpg"
+    },
+    {
+      "id": "z9VtO9qe-I0",
+      "title": "(Karaoké+V.Chanté) | La ballade des gens heureux | Gérard Lenormand",
+      "artist": "Gérard Lenormand",
+      "song": "La ballade des gens heureux",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/z9VtO9qe-I0/mqdefault.jpg"
+    },
     {
       "id": "CHTCpPq32xU",
       "title": "(Karaoké) | Je pensais pas | Daniel Lavoie",
