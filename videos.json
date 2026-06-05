@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-06-05T13:29:43.407885",
-  "total": 1946,
+  "last_updated": "2026-06-05T18:09:02.719702",
+  "total": 1948,
   "channel_name": "Les Karapottés",
   "subscribers": 1690,
-  "total_views": 702831,
-  "video_count": 1945,
+  "total_views": 703440,
+  "video_count": 1947,
   "videos": [
+    {
+      "id": "2TSbenhF6-Y",
+      "title": "(Karaoké) | La ballade des gens heureux | Guylaine Tanguay",
+      "artist": "Guylaine Tanguay",
+      "song": "La ballade des gens heureux",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/2TSbenhF6-Y/mqdefault.jpg"
+    },
+    {
+      "id": "UrMqnBZS3SM",
+      "title": "(Karaoké+V.Chanté) | La ballade des gens heureux | Guylaine Tanguay",
+      "artist": "Guylaine Tanguay",
+      "song": "La ballade des gens heureux",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/UrMqnBZS3SM/mqdefault.jpg"
+    },
     {
       "id": "aYdwtAllEoc",
       "title": "(Karaoké) | La ballade des gens heureux | Gérard Lenormand",
