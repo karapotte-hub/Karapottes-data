@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-06-05T18:09:02.719702",
-  "total": 1948,
+  "last_updated": "2026-06-06T17:54:36.172130",
+  "total": 1950,
   "channel_name": "Les Karapottés",
   "subscribers": 1690,
-  "total_views": 703440,
-  "video_count": 1947,
+  "total_views": 704812,
+  "video_count": 1949,
   "videos": [
+    {
+      "id": "vjTJDAclKqA",
+      "title": "(Karaoké) | Du temps de plus | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Du temps de plus",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/vjTJDAclKqA/mqdefault.jpg"
+    },
+    {
+      "id": "hfFGus6ZOAs",
+      "title": "(Karaoké+V.Chanté) | Du temps de plus | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Du temps de plus",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/hfFGus6ZOAs/mqdefault.jpg"
+    },
     {
       "id": "2TSbenhF6-Y",
       "title": "(Karaoké) | La ballade des gens heureux | Guylaine Tanguay",
