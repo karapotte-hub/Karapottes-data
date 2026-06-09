@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-06-06T17:54:36.172130",
-  "total": 1950,
+  "last_updated": "2026-06-08T22:25:01.714174",
+  "total": 1954,
   "channel_name": "Les Karapottés",
-  "subscribers": 1690,
-  "total_views": 704812,
-  "video_count": 1949,
+  "subscribers": 1700,
+  "total_views": 708093,
+  "video_count": 1953,
   "videos": [
+    {
+      "id": "6hwwApsTDx8",
+      "title": "(Karaoké) | Marie s'éveille | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Marie s'éveille",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/6hwwApsTDx8/mqdefault.jpg"
+    },
+    {
+      "id": "Y_tuxZzvcDE",
+      "title": "(Karaoké+V.Chanté) | Marie s'éveille | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Marie s'éveille",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Y_tuxZzvcDE/mqdefault.jpg"
+    },
+    {
+      "id": "311s6VdWkl8",
+      "title": "(Karaoké) | Salut les amoureux | Joannie Benoit",
+      "artist": "Joannie Benoit",
+      "song": "Salut les amoureux",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/311s6VdWkl8/mqdefault.jpg"
+    },
+    {
+      "id": "5QRBUFRYDgs",
+      "title": "(Karaoké+V.Chanté) | Salut les amoureux | Joannie Benoit",
+      "artist": "Joannie Benoit",
+      "song": "Salut les amoureux",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/5QRBUFRYDgs/mqdefault.jpg"
+    },
     {
       "id": "vjTJDAclKqA",
       "title": "(Karaoké) | Du temps de plus | Dj.Pete",
