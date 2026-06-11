@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-06-08T22:25:01.714174",
-  "total": 1954,
+  "last_updated": "2026-06-11T16:14:44.588083",
+  "total": 1961,
   "channel_name": "Les Karapottés",
   "subscribers": 1700,
-  "total_views": 708093,
-  "video_count": 1953,
+  "total_views": 710802,
+  "video_count": 1960,
   "videos": [
+    {
+      "id": "HX-xdcr9HLY",
+      "title": "(Karaoké) | 20 ans X2 | Lorie",
+      "artist": "Lorie",
+      "song": "20 ans X2",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/HX-xdcr9HLY/mqdefault.jpg"
+    },
+    {
+      "id": "Pg3Kxs_A-x8",
+      "title": "(Karaoké+Back Vocal) | 20 ans X2 | Lorie",
+      "artist": "Lorie",
+      "song": "20 ans X2",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/Pg3Kxs_A-x8/mqdefault.jpg"
+    },
+    {
+      "id": "vASxiOfZqPM",
+      "title": "(Karaoké+V.Chanté) | 20 ans X2 | Lorie",
+      "artist": "Lorie",
+      "song": "20 ans X2",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/vASxiOfZqPM/mqdefault.jpg"
+    },
+    {
+      "id": "CroDctBYy_c",
+      "title": "(Karaoké) | Imbécile | Joey Robin Haché",
+      "artist": "Joey Robin Haché",
+      "song": "Imbécile",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/CroDctBYy_c/mqdefault.jpg"
+    },
+    {
+      "id": "71JLRGfVxvs",
+      "title": "(Karaoké+V.Chanté) | Imbécile | Joey Robin Haché",
+      "artist": "Joey Robin Haché",
+      "song": "Imbécile",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/71JLRGfVxvs/mqdefault.jpg"
+    },
+    {
+      "id": "eVZ_gWga4Js",
+      "title": "(Karaoké) | Black out! -sans queue... ni tête | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Black out! -sans queue... ni tête",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/eVZ_gWga4Js/mqdefault.jpg"
+    },
+    {
+      "id": "cAdfSOXLKHQ",
+      "title": "(Karaoké+V.Chanté) | Black out! -sans queue... ni tête | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Black out! -sans queue... ni tête",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/cAdfSOXLKHQ/mqdefault.jpg"
+    },
     {
       "id": "6hwwApsTDx8",
       "title": "(Karaoké) | Marie s'éveille | Dj.Pete",
