@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-06-11T16:14:44.588083",
-  "total": 1961,
+  "last_updated": "2026-06-20T16:32:08.900672",
+  "total": 1965,
   "channel_name": "Les Karapottés",
-  "subscribers": 1700,
-  "total_views": 710802,
-  "video_count": 1960,
+  "subscribers": 1720,
+  "total_views": 722922,
+  "video_count": 1964,
   "videos": [
+    {
+      "id": "hJWAShCluN4",
+      "title": "(Karaoké) | Ils se font des signes | Jim Corcoran",
+      "artist": "Jim Corcoran",
+      "song": "Ils se font des signes",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/hJWAShCluN4/mqdefault.jpg"
+    },
+    {
+      "id": "jiGNSWC0I2A",
+      "title": "(Karaoké+V.Chanté) | Ils se font des signes | Jim Corcoran",
+      "artist": "Jim Corcoran",
+      "song": "Ils se font des signes",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/jiGNSWC0I2A/mqdefault.jpg"
+    },
+    {
+      "id": "JmBigeUfkjo",
+      "title": "(Karaoké) | Un air d'été | Pierre Bertrand",
+      "artist": "Pierre Bertrand",
+      "song": "Un air d'été",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/JmBigeUfkjo/mqdefault.jpg"
+    },
+    {
+      "id": "xo8CJ0sibjQ",
+      "title": "(Karaoké+V.Chanté) | Un air d'été | Pierre Bertrand",
+      "artist": "Pierre Bertrand",
+      "song": "Un air d'été",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/xo8CJ0sibjQ/mqdefault.jpg"
+    },
     {
       "id": "HX-xdcr9HLY",
       "title": "(Karaoké) | 20 ans X2 | Lorie",
