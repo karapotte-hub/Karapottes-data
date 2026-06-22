@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-06-20T16:32:08.900672",
-  "total": 1965,
+  "last_updated": "2026-06-22T10:18:43.417935",
+  "total": 1967,
   "channel_name": "Les Karapottés",
   "subscribers": 1720,
-  "total_views": 722922,
-  "video_count": 1964,
+  "total_views": 725001,
+  "video_count": 1966,
   "videos": [
+    {
+      "id": "fvfSLdrG6D8",
+      "title": "(Karaoké+V.Chanté) | Prend ça cool | Les frères à ch’val",
+      "artist": "Les frères à ch’val",
+      "song": "Prend ça cool",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/fvfSLdrG6D8/mqdefault.jpg"
+    },
+    {
+      "id": "P_l1Az0fR-Q",
+      "title": "(Karaoké) | Prend ça cool | Les frères à ch’val",
+      "artist": "Les frères à ch’val",
+      "song": "Prend ça cool",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/P_l1Az0fR-Q/mqdefault.jpg"
+    },
     {
       "id": "hJWAShCluN4",
       "title": "(Karaoké) | Ils se font des signes | Jim Corcoran",
