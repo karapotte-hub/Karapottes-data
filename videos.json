@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-06-22T20:32:10.704497",
-  "total": 1967,
+  "last_updated": "2026-06-23T14:20:37.117203",
+  "total": 1969,
   "channel_name": "Les Karapottés",
-  "subscribers": 1720,
+  "subscribers": 1730,
   "total_views": 725001,
-  "video_count": 1966,
+  "video_count": 1968,
   "videos": [
+    {
+      "id": "GcvNhjhLfTs",
+      "title": "(Karaoké) | Voyager sans toi | Mario Pelchat",
+      "artist": "Mario Pelchat",
+      "song": "Voyager sans toi",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/GcvNhjhLfTs/mqdefault.jpg"
+    },
+    {
+      "id": "T-Zf81OQ6to",
+      "title": "(Karaoké+V.Chanté) | Voyager sans toi | Mario Pelchat",
+      "artist": "Mario Pelchat",
+      "song": "Voyager sans toi",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/T-Zf81OQ6to/mqdefault.jpg"
+    },
     {
       "id": "fvfSLdrG6D8",
       "title": "(Karaoké+V.Chanté) | Prend ça cool | Les frères à ch’val",
