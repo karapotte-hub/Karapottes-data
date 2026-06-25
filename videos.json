@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-06-23T14:20:37.117203",
-  "total": 1969,
+  "last_updated": "2026-06-25T13:44:19.611032",
+  "total": 1971,
   "channel_name": "Les Karapottés",
   "subscribers": 1730,
-  "total_views": 725001,
-  "video_count": 1968,
+  "total_views": 730594,
+  "video_count": 1970,
   "videos": [
+    {
+      "id": "-kAx-K0r_CE",
+      "title": "(Karaoké) | Pousse, pousse | Jonathan Painchaud",
+      "artist": "Jonathan Painchaud",
+      "song": "Pousse, pousse",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/-kAx-K0r_CE/mqdefault.jpg"
+    },
+    {
+      "id": "31kS-L7WNdo",
+      "title": "(Karaoké+V.Chanté) | Pousse, pousse | Jonathan Painchaud",
+      "artist": "Jonathan Painchaud",
+      "song": "Pousse, pousse",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/31kS-L7WNdo/mqdefault.jpg"
+    },
     {
       "id": "GcvNhjhLfTs",
       "title": "(Karaoké) | Voyager sans toi | Mario Pelchat",
