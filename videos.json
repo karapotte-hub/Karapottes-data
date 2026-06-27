@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-06-25T13:44:19.611032",
-  "total": 1971,
+  "last_updated": "2026-06-27T12:33:25.235431",
+  "total": 1975,
   "channel_name": "Les Karapottés",
   "subscribers": 1730,
-  "total_views": 730594,
-  "video_count": 1970,
+  "total_views": 732142,
+  "video_count": 1974,
   "videos": [
+    {
+      "id": "tvJxNpsYWeg",
+      "title": "(Karaoké) | Citoyens du monde | Pascal Dufour",
+      "artist": "Pascal Dufour",
+      "song": "Citoyens du monde",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/tvJxNpsYWeg/mqdefault.jpg"
+    },
+    {
+      "id": "2fBfV2F-A7E",
+      "title": "(Karaoké+V.Chanté) | Citoyens du monde | Pascal Dufour",
+      "artist": "Pascal Dufour",
+      "song": "Citoyens du monde",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/2fBfV2F-A7E/mqdefault.jpg"
+    },
+    {
+      "id": "lXBxJ3-vryw",
+      "title": "(Karaoké) | Ça swing dans place | Carl 1976",
+      "artist": "Carl 1976",
+      "song": "Ça swing dans place",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/lXBxJ3-vryw/mqdefault.jpg"
+    },
+    {
+      "id": "sijngZ0qwGA",
+      "title": "(Karaoké+V.Chanté) | Ça swing dans place | Carl 1976",
+      "artist": "Carl 1976",
+      "song": "Ça swing dans place",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/sijngZ0qwGA/mqdefault.jpg"
+    },
     {
       "id": "-kAx-K0r_CE",
       "title": "(Karaoké) | Pousse, pousse | Jonathan Painchaud",
