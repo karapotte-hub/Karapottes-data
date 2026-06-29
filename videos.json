@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-06-27T12:33:25.235431",
-  "total": 1975,
+  "last_updated": "2026-06-28T21:01:50.512813",
+  "total": 1977,
   "channel_name": "Les Karapottés",
-  "subscribers": 1730,
-  "total_views": 732142,
-  "video_count": 1974,
+  "subscribers": 1740,
+  "total_views": 734731,
+  "video_count": 1976,
   "videos": [
+    {
+      "id": "yLezs26YEjs",
+      "title": "(Karaoké) | Une autre chance | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Une autre chance",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/yLezs26YEjs/mqdefault.jpg"
+    },
+    {
+      "id": "sJ07nKCzXFU",
+      "title": "(Karaoké+V.Chanté) | Une autre chance | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Une autre chance",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/sJ07nKCzXFU/mqdefault.jpg"
+    },
     {
       "id": "tvJxNpsYWeg",
       "title": "(Karaoké) | Citoyens du monde | Pascal Dufour",
