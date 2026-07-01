@@ -1,26 +1,66 @@
 {
-  "last_updated": "2026-06-28T21:01:50.512813",
-  "total": 1977,
+  "last_updated": "2026-07-01T07:56:41.197769",
+  "total": 1982,
   "channel_name": "Les Karapottés",
   "subscribers": 1740,
-  "total_views": 734731,
-  "video_count": 1976,
+  "total_views": 736684,
+  "video_count": 1981,
   "videos": [
     {
-      "id": "yLezs26YEjs",
+      "id": "5G2bVYd8vQA",
+      "title": "(Karaoké) | Y'a rien à voir | Jean-Jacques Lafon",
+      "artist": "Jean-Jacques Lafon",
+      "song": "Y'a rien à voir",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/5G2bVYd8vQA/mqdefault.jpg"
+    },
+    {
+      "id": "fPO59cnM8VY",
+      "title": "(Karaoké+V.Chanté) | Y'a rien à voir | Jean-Jacques Lafon",
+      "artist": "Jean-Jacques Lafon",
+      "song": "Y'a rien à voir",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/fPO59cnM8VY/mqdefault.jpg"
+    },
+    {
+      "id": "zpKlGJd4qHQ",
+      "title": "(Karaoké) | Nous aurons | Richard Desjardins",
+      "artist": "Richard Desjardins",
+      "song": "Nous aurons",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/zpKlGJd4qHQ/mqdefault.jpg"
+    },
+    {
+      "id": "8qaHQd8xbUM",
+      "title": "(Karaoké+Back Vocal) | Nous aurons | Richard Desjardins",
+      "artist": "Richard Desjardins",
+      "song": "Nous aurons",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/8qaHQd8xbUM/mqdefault.jpg"
+    },
+    {
+      "id": "1vprfiGNE-4",
+      "title": "(Karaoké+V.Chanté) | Nous aurons | Richard Desjardins",
+      "artist": "Richard Desjardins",
+      "song": "Nous aurons",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/1vprfiGNE-4/mqdefault.jpg"
+    },
+    {
+      "id": "gRuAK9kvkF0",
       "title": "(Karaoké) | Une autre chance | Dj.Pete",
       "artist": "Dj.Pete",
       "song": "Une autre chance",
       "type": "karaoke",
-      "thumb": "https://i.ytimg.com/vi/yLezs26YEjs/mqdefault.jpg"
+      "thumb": "https://i.ytimg.com/vi/gRuAK9kvkF0/mqdefault.jpg"
     },
     {
-      "id": "sJ07nKCzXFU",
+      "id": "-_293R58Vuw",
       "title": "(Karaoké+V.Chanté) | Une autre chance | Dj.Pete",
       "artist": "Dj.Pete",
       "song": "Une autre chance",
       "type": "voix",
-      "thumb": "https://i.ytimg.com/vi/sJ07nKCzXFU/mqdefault.jpg"
+      "thumb": "https://i.ytimg.com/vi/-_293R58Vuw/mqdefault.jpg"
     },
     {
       "id": "tvJxNpsYWeg",
