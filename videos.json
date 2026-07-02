@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-07-01T07:56:41.197769",
-  "total": 1982,
+  "last_updated": "2026-07-02T10:14:48.612152",
+  "total": 1988,
   "channel_name": "Les Karapottés",
   "subscribers": 1740,
-  "total_views": 736684,
-  "video_count": 1981,
+  "total_views": 738117,
+  "video_count": 1986,
   "videos": [
+    {
+      "id": "b5MjKC1iEC4",
+      "title": "(Karaoké) | L.O.V.E | Sacha Distel",
+      "artist": "Sacha Distel",
+      "song": "L.O.V.E",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/b5MjKC1iEC4/mqdefault.jpg"
+    },
+    {
+      "id": "IIcUuAotOH4",
+      "title": "(Karaoké+V.Chanté) | L.O.V.E | Sacha Distel",
+      "artist": "Sacha Distel",
+      "song": "L.O.V.E",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/IIcUuAotOH4/mqdefault.jpg"
+    },
+    {
+      "id": "fiWwlSg81pA",
+      "title": "(Karaoké) | Chanson bleue | Sacha Distel",
+      "artist": "Sacha Distel",
+      "song": "Chanson bleue",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/fiWwlSg81pA/mqdefault.jpg"
+    },
+    {
+      "id": "uCgy8WeDLtM",
+      "title": "(Karaoké+V.Chanté) | Chanson bleue | Sacha Distel",
+      "artist": "Sacha Distel",
+      "song": "Chanson bleue",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/uCgy8WeDLtM/mqdefault.jpg"
+    },
+    {
+      "id": "MA3RGw50Y5E",
+      "title": "(Karaoké) | La mer | Sacha Distel",
+      "artist": "Sacha Distel",
+      "song": "La mer",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/MA3RGw50Y5E/mqdefault.jpg"
+    },
+    {
+      "id": "dXd72Bs5BZs",
+      "title": "(Karaoké+V.Chanté) | La mer | Sacha Distel",
+      "artist": "Sacha Distel",
+      "song": "La mer",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/dXd72Bs5BZs/mqdefault.jpg"
+    },
     {
       "id": "5G2bVYd8vQA",
       "title": "(Karaoké) | Y'a rien à voir | Jean-Jacques Lafon",
