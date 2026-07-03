@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-02T12:28:59.860574",
-  "total": 1988,
+  "last_updated": "2026-07-03T15:04:53.395579",
+  "total": 1990,
   "channel_name": "Les Karapottés",
-  "subscribers": 1740,
-  "total_views": 738117,
-  "video_count": 1986,
+  "subscribers": 1750,
+  "total_views": 739957,
+  "video_count": 1989,
   "videos": [
+    {
+      "id": "8GAMzu15ylM",
+      "title": "(Karaoké) | Tenir debout | Fred Pellerin",
+      "artist": "Fred Pellerin",
+      "song": "Tenir debout",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/8GAMzu15ylM/mqdefault.jpg"
+    },
+    {
+      "id": "O2NpXhdqSD8",
+      "title": "(Karaoké+V.Chanté) | Tenir debout | Fred Pellerin",
+      "artist": "Fred Pellerin",
+      "song": "Tenir debout",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/O2NpXhdqSD8/mqdefault.jpg"
+    },
     {
       "id": "b5MjKC1iEC4",
       "title": "(Karaoké) | L.O.V.E | Sacha Distel",
