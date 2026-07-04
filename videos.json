@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-03T15:04:53.395579",
-  "total": 1990,
+  "last_updated": "2026-07-04T15:00:35.351450",
+  "total": 1992,
   "channel_name": "Les Karapottés",
   "subscribers": 1750,
-  "total_views": 739957,
-  "video_count": 1989,
+  "total_views": 740255,
+  "video_count": 1991,
   "videos": [
+    {
+      "id": "WrK5D3bXchs",
+      "title": "(Karaoké) | Pavillon Noir | Soldat Louis",
+      "artist": "Soldat Louis",
+      "song": "Pavillon Noir",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/WrK5D3bXchs/mqdefault.jpg"
+    },
+    {
+      "id": "is6zWElkBL4",
+      "title": "(Karaoké+V.Chanté) | Pavillon Noir | Soldat Louis",
+      "artist": "Soldat Louis",
+      "song": "Pavillon Noir",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/is6zWElkBL4/mqdefault.jpg"
+    },
     {
       "id": "8GAMzu15ylM",
       "title": "(Karaoké) | Tenir debout | Fred Pellerin",
