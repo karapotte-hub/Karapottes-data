@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-07T02:04:10.356336",
-  "total": 1994,
+  "last_updated": "2026-07-07T15:47:37.314216",
+  "total": 1996,
   "channel_name": "Les Karapottés",
   "subscribers": 1750,
-  "total_views": 744135,
-  "video_count": 1993,
+  "total_views": 744843,
+  "video_count": 1995,
   "videos": [
+    {
+      "id": "_q-1aQ8m8rU",
+      "title": "(Karaoké) | Pourquoi toi | Claude François",
+      "artist": "Claude François",
+      "song": "Pourquoi toi",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/_q-1aQ8m8rU/mqdefault.jpg"
+    },
+    {
+      "id": "hOiDLk81l1U",
+      "title": "(Karaoké+V.Chanté) | Pourquoi toi | Claude François",
+      "artist": "Claude François",
+      "song": "Pourquoi toi",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/hOiDLk81l1U/mqdefault.jpg"
+    },
     {
       "id": "K-fozzE9UOM",
       "title": "(Karaoké) | Maia | Lydia Képinski",
