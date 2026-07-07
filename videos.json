@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-04T15:00:35.351450",
-  "total": 1992,
+  "last_updated": "2026-07-07T02:04:10.356336",
+  "total": 1994,
   "channel_name": "Les Karapottés",
   "subscribers": 1750,
-  "total_views": 740255,
-  "video_count": 1991,
+  "total_views": 744135,
+  "video_count": 1993,
   "videos": [
+    {
+      "id": "K-fozzE9UOM",
+      "title": "(Karaoké) | Maia | Lydia Képinski",
+      "artist": "Lydia Képinski",
+      "song": "Maia",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/K-fozzE9UOM/mqdefault.jpg"
+    },
+    {
+      "id": "G5ZBGSx6dbM",
+      "title": "(Karaoké+V.Chanté) | Maia | Lydia Képinski",
+      "artist": "Lydia Képinski",
+      "song": "Maia",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/G5ZBGSx6dbM/mqdefault.jpg"
+    },
     {
       "id": "WrK5D3bXchs",
       "title": "(Karaoké) | Pavillon Noir | Soldat Louis",
