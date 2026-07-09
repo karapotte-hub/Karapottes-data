@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-07T15:47:37.314216",
-  "total": 1996,
+  "last_updated": "2026-07-08T23:44:29.809446",
+  "total": 1998,
   "channel_name": "Les Karapottés",
   "subscribers": 1750,
-  "total_views": 744843,
-  "video_count": 1995,
+  "total_views": 745766,
+  "video_count": 1997,
   "videos": [
+    {
+      "id": "OrFAewzRd74",
+      "title": "(Karaoké) | Jamais asser loin | Isabelle Boulay",
+      "artist": "Isabelle Boulay",
+      "song": "Jamais asser loin",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/OrFAewzRd74/mqdefault.jpg"
+    },
+    {
+      "id": "YUUFBxWo14w",
+      "title": "(Karaoké+V.Chanté) | Jamais asser loin | Isabelle Boulay",
+      "artist": "Isabelle Boulay",
+      "song": "Jamais asser loin",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/YUUFBxWo14w/mqdefault.jpg"
+    },
     {
       "id": "_q-1aQ8m8rU",
       "title": "(Karaoké) | Pourquoi toi | Claude François",
