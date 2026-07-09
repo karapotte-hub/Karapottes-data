@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-08T23:44:29.809446",
-  "total": 1998,
+  "last_updated": "2026-07-09T15:53:55.236643",
+  "total": 2000,
   "channel_name": "Les Karapottés",
   "subscribers": 1750,
-  "total_views": 745766,
-  "video_count": 1997,
+  "total_views": 746895,
+  "video_count": 1999,
   "videos": [
+    {
+      "id": "SYdI0UuMOo0",
+      "title": "(Karaoké) | J lève mon verre | Vulgaires Machins",
+      "artist": "Vulgaires Machins",
+      "song": "J lève mon verre",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/SYdI0UuMOo0/mqdefault.jpg"
+    },
+    {
+      "id": "ISfylxrnf2w",
+      "title": "(Karaoké+V.Chanté) | J lève mon verre | Vulgaires Machins",
+      "artist": "Vulgaires Machins",
+      "song": "J lève mon verre",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/ISfylxrnf2w/mqdefault.jpg"
+    },
     {
       "id": "OrFAewzRd74",
       "title": "(Karaoké) | Jamais asser loin | Isabelle Boulay",
