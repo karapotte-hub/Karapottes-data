@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-09T15:53:55.236643",
-  "total": 2000,
+  "last_updated": "2026-07-10T19:04:13.042689",
+  "total": 2002,
   "channel_name": "Les Karapottés",
-  "subscribers": 1750,
-  "total_views": 746895,
-  "video_count": 1999,
+  "subscribers": 1760,
+  "total_views": 748317,
+  "video_count": 2001,
   "videos": [
+    {
+      "id": "a4OhL2Q1S7Y",
+      "title": "(Karaoké) | Joue-moi du Zydeco | Véronique Labbé",
+      "artist": "Véronique Labbé",
+      "song": "Joue-moi du Zydeco",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/a4OhL2Q1S7Y/mqdefault.jpg"
+    },
+    {
+      "id": "TvOe2zPWUtM",
+      "title": "(Karaoké+V.Chanté) | Joue-moi du Zydeco | Véronique Labbé",
+      "artist": "Véronique Labbé",
+      "song": "Joue-moi du Zydeco",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/TvOe2zPWUtM/mqdefault.jpg"
+    },
     {
       "id": "SYdI0UuMOo0",
       "title": "(Karaoké) | J lève mon verre | Vulgaires Machins",
