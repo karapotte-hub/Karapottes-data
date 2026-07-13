@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-10T19:04:13.042689",
-  "total": 2002,
+  "last_updated": "2026-07-13T13:19:35.114608",
+  "total": 2004,
   "channel_name": "Les Karapottés",
   "subscribers": 1760,
-  "total_views": 748317,
-  "video_count": 2001,
+  "total_views": 752462,
+  "video_count": 2003,
   "videos": [
+    {
+      "id": "Cn7ffvUmMjo",
+      "title": "(Karaoké) | La magie de l'amour | Martin Stevens",
+      "artist": "Martin Stevens",
+      "song": "La magie de l'amour",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Cn7ffvUmMjo/mqdefault.jpg"
+    },
+    {
+      "id": "Bok5iuKdWUg",
+      "title": "(Karaoké+V.Chanté) | La magie de l'amour | Martin Stevens",
+      "artist": "Martin Stevens",
+      "song": "La magie de l'amour",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Bok5iuKdWUg/mqdefault.jpg"
+    },
     {
       "id": "a4OhL2Q1S7Y",
       "title": "(Karaoké) | Joue-moi du Zydeco | Véronique Labbé",
