@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-13T13:19:35.114608",
-  "total": 2004,
+  "last_updated": "2026-07-14T10:37:46.030572",
+  "total": 2006,
   "channel_name": "Les Karapottés",
   "subscribers": 1760,
-  "total_views": 752462,
-  "video_count": 2003,
+  "total_views": 753484,
+  "video_count": 2005,
   "videos": [
+    {
+      "id": "-NDBWoXaAkM",
+      "title": "(Karaoké) | Laxatif rock | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Laxatif rock",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/-NDBWoXaAkM/mqdefault.jpg"
+    },
+    {
+      "id": "oZOBMEJvXdA",
+      "title": "(Karaoké+V.Chanté) | Laxatif rock | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Laxatif rock",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/oZOBMEJvXdA/mqdefault.jpg"
+    },
     {
       "id": "Cn7ffvUmMjo",
       "title": "(Karaoké) | La magie de l'amour | Martin Stevens",
