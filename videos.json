@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-07-14T10:37:46.030572",
-  "total": 2006,
+  "last_updated": "2026-07-16T20:50:45.798664",
+  "total": 2011,
   "channel_name": "Les Karapottés",
-  "subscribers": 1760,
-  "total_views": 753484,
-  "video_count": 2005,
+  "subscribers": 1770,
+  "total_views": 755597,
+  "video_count": 2010,
   "videos": [
+    {
+      "id": "iRExBkKzuQo",
+      "title": "[Hors Séries] Dj.Pete - 10 ans de moins",
+      "artist": "[Hors Séries] Dj.Pete",
+      "song": "10 ans de moins",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/iRExBkKzuQo/mqdefault.jpg"
+    },
+    {
+      "id": "RK4_xhMritE",
+      "title": "(Karaoké) | Pisser drette | Les Ticky Jones",
+      "artist": "Les Ticky Jones",
+      "song": "Pisser drette",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/RK4_xhMritE/mqdefault.jpg"
+    },
+    {
+      "id": "PZdwtaZ5vyY",
+      "title": "(Karaoké+V.Chanté) | Pisser drette | Les Ticky Jones",
+      "artist": "Les Ticky Jones",
+      "song": "Pisser drette",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/PZdwtaZ5vyY/mqdefault.jpg"
+    },
+    {
+      "id": "YiSbUEq1s6c",
+      "title": "(Karaoké) | Sorsd'ma yard | Menonc Jason",
+      "artist": "Menonc Jason",
+      "song": "Sorsd'ma yard",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/YiSbUEq1s6c/mqdefault.jpg"
+    },
+    {
+      "id": "jm1XOWc7Ew0",
+      "title": "(Karaoké+V.Chanté) | Sorsd'ma yard | Menonc Jason",
+      "artist": "Menonc Jason",
+      "song": "Sorsd'ma yard",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/jm1XOWc7Ew0/mqdefault.jpg"
+    },
     {
       "id": "-NDBWoXaAkM",
       "title": "(Karaoké) | Laxatif rock | Plume Latraverse",
