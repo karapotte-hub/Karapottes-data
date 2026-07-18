@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-07-16T20:50:45.798664",
-  "total": 2011,
+  "last_updated": "2026-07-18T17:52:36.076351",
+  "total": 2017,
   "channel_name": "Les Karapottés",
-  "subscribers": 1770,
-  "total_views": 755597,
-  "video_count": 2010,
+  "subscribers": 1780,
+  "total_views": 758209,
+  "video_count": 2016,
   "videos": [
+    {
+      "id": "vy3lw2dh2JU",
+      "title": "(Karaoké) | Le rock dans la peau | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Le rock dans la peau",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/vy3lw2dh2JU/mqdefault.jpg"
+    },
+    {
+      "id": "g_aifmXQlKE",
+      "title": "(Karaoké+Back Vocal) | Le rock dans la peau | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Le rock dans la peau",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/g_aifmXQlKE/mqdefault.jpg"
+    },
+    {
+      "id": "PiBKdJ4PAhU",
+      "title": "(Karaoké+V.Chanté) | Le rock dans la peau | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Le rock dans la peau",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/PiBKdJ4PAhU/mqdefault.jpg"
+    },
+    {
+      "id": "b8vq25QSvFY",
+      "title": "(Karaoké) | Le rock dans la peau | Beau Flash",
+      "artist": "Beau Flash",
+      "song": "Le rock dans la peau",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/b8vq25QSvFY/mqdefault.jpg"
+    },
+    {
+      "id": "2U8Okmq0oy8",
+      "title": "(Karaoké+Back Vocal) | Le rock dans la peau | Beau Flash",
+      "artist": "Beau Flash",
+      "song": "Le rock dans la peau",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/2U8Okmq0oy8/mqdefault.jpg"
+    },
+    {
+      "id": "LpjtfB44XXc",
+      "title": "(Karaoké+V.Chanté) | Le rock dans la peau | Beau Flash",
+      "artist": "Beau Flash",
+      "song": "Le rock dans la peau",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/LpjtfB44XXc/mqdefault.jpg"
+    },
     {
       "id": "iRExBkKzuQo",
       "title": "[Hors Séries] Dj.Pete - 10 ans de moins",
@@ -32,17 +80,17 @@
     },
     {
       "id": "YiSbUEq1s6c",
-      "title": "(Karaoké) | Sorsd'ma yard | Menonc Jason",
+      "title": "(Karaoké) | Sors d'ma yard | Menonc Jason",
       "artist": "Menonc Jason",
-      "song": "Sorsd'ma yard",
+      "song": "Sors d'ma yard",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/YiSbUEq1s6c/mqdefault.jpg"
     },
     {
       "id": "jm1XOWc7Ew0",
-      "title": "(Karaoké+V.Chanté) | Sorsd'ma yard | Menonc Jason",
+      "title": "(Karaoké+V.Chanté) | Sors d'ma yard | Menonc Jason",
       "artist": "Menonc Jason",
-      "song": "Sorsd'ma yard",
+      "song": "Sors d'ma yard",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/jm1XOWc7Ew0/mqdefault.jpg"
     },
