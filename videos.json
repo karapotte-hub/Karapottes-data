@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-18T17:52:36.076351",
-  "total": 2017,
+  "last_updated": "2026-07-20T12:42:58.404739",
+  "total": 2019,
   "channel_name": "Les Karapottés",
   "subscribers": 1780,
-  "total_views": 758209,
-  "video_count": 2016,
+  "total_views": 761261,
+  "video_count": 2018,
   "videos": [
+    {
+      "id": "sNlPRJ8mBA8",
+      "title": "(Karaoké) | Un soir au cabaret | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Un soir au cabaret",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/sNlPRJ8mBA8/mqdefault.jpg"
+    },
+    {
+      "id": "Aeucf9FgyoE",
+      "title": "(Karaoké+V.Chanté) | Un soir au cabaret | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Un soir au cabaret",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Aeucf9FgyoE/mqdefault.jpg"
+    },
     {
       "id": "vy3lw2dh2JU",
       "title": "(Karaoké) | Le rock dans la peau | Dj.Pete",
