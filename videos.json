@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-20T12:42:58.404739",
-  "total": 2019,
+  "last_updated": "2026-07-20T15:48:03.978244",
+  "total": 2021,
   "channel_name": "Les Karapottés",
   "subscribers": 1780,
   "total_views": 761261,
-  "video_count": 2018,
+  "video_count": 2020,
   "videos": [
+    {
+      "id": "dngniKq_GMw",
+      "title": "(Karaoké) | Emmêlé dans ses ch'veux | Jean-François Pauzé",
+      "artist": "Jean-François Pauzé",
+      "song": "Emmêlé dans ses ch'veux",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/dngniKq_GMw/mqdefault.jpg"
+    },
+    {
+      "id": "Q_pa4UBQHgM",
+      "title": "(Karaoké+V.Chanté) | Emmêlé dans ses ch'veux | Jean-François Pauzé",
+      "artist": "Jean-François Pauzé",
+      "song": "Emmêlé dans ses ch'veux",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Q_pa4UBQHgM/mqdefault.jpg"
+    },
     {
       "id": "sNlPRJ8mBA8",
       "title": "(Karaoké) | Un soir au cabaret | Dj.Pete",
