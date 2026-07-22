@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-07-20T15:48:03.978244",
-  "total": 2021,
+  "last_updated": "2026-07-22T15:06:02.237374",
+  "total": 2024,
   "channel_name": "Les Karapottés",
-  "subscribers": 1780,
-  "total_views": 761261,
-  "video_count": 2020,
+  "subscribers": 1790,
+  "total_views": 763528,
+  "video_count": 2023,
   "videos": [
+    {
+      "id": "nC09oY5HFSc",
+      "title": "(Karaoké) | Quand on est en amour | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Quand on est en amour",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/nC09oY5HFSc/mqdefault.jpg"
+    },
+    {
+      "id": "_Xwwi4HD71Y",
+      "title": "(Karaoké+Back Vocal) | Quand on est en amour | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Quand on est en amour",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/_Xwwi4HD71Y/mqdefault.jpg"
+    },
+    {
+      "id": "6p1uue0lwsY",
+      "title": "(Karaoké+V.Chanté) | Quand on est en amour | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Quand on est en amour",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/6p1uue0lwsY/mqdefault.jpg"
+    },
     {
       "id": "dngniKq_GMw",
       "title": "(Karaoké) | Emmêlé dans ses ch'veux | Jean-François Pauzé",
