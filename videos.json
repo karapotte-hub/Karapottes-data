@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-07-22T15:06:02.237374",
-  "total": 2024,
+  "last_updated": "2026-07-24T08:42:34.365608",
+  "total": 2027,
   "channel_name": "Les Karapottés",
-  "subscribers": 1790,
-  "total_views": 763528,
-  "video_count": 2023,
+  "subscribers": 1800,
+  "total_views": 765244,
+  "video_count": 2026,
   "videos": [
+    {
+      "id": "ySHFYeA6gV0",
+      "title": "(Karaoké) | Vérité | Martin Deschamps",
+      "artist": "Martin Deschamps",
+      "song": "Vérité",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/ySHFYeA6gV0/mqdefault.jpg"
+    },
+    {
+      "id": "0AgPDljCSgU",
+      "title": "(Karaoké+Back Vocal) | Vérité | Martin Deschamps",
+      "artist": "Martin Deschamps",
+      "song": "Vérité",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/0AgPDljCSgU/mqdefault.jpg"
+    },
+    {
+      "id": "l__HixiVLW4",
+      "title": "(Karaoké+V.Chanté) | Vérité | Martin Deschamps",
+      "artist": "Martin Deschamps",
+      "song": "Vérité",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/l__HixiVLW4/mqdefault.jpg"
+    },
     {
       "id": "nC09oY5HFSc",
       "title": "(Karaoké) | Quand on est en amour | Patrick Norman",
