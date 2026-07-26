@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-07-24T08:42:34.365608",
-  "total": 2027,
+  "last_updated": "2026-07-26T18:27:01.052353",
+  "total": 2033,
   "channel_name": "Les Karapottés",
   "subscribers": 1800,
-  "total_views": 765244,
-  "video_count": 2026,
+  "total_views": 768991,
+  "video_count": 2032,
   "videos": [
+    {
+      "id": "XSompfBLjHE",
+      "title": "(Karaoké) | L'homme des tavernes | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "L'homme des tavernes",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/XSompfBLjHE/mqdefault.jpg"
+    },
+    {
+      "id": "Uc5uRepH_nI",
+      "title": "(Karaoké+V.Chanté) | L'homme des tavernes | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "L'homme des tavernes",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Uc5uRepH_nI/mqdefault.jpg"
+    },
+    {
+      "id": "h8QL9jWY6SU",
+      "title": "(Karaoké) | Ce soir nous allons fêter | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Ce soir nous allons fêter",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/h8QL9jWY6SU/mqdefault.jpg"
+    },
+    {
+      "id": "X3bnL9IvAZE",
+      "title": "(Karaoké+V.Chanté) | Ce soir nous allons fêter | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Ce soir nous allons fêter",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/X3bnL9IvAZE/mqdefault.jpg"
+    },
+    {
+      "id": "FpDc1LMWwTA",
+      "title": "(Karaoké) | Le cadeau | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Le cadeau",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/FpDc1LMWwTA/mqdefault.jpg"
+    },
+    {
+      "id": "gEPnwANUvUg",
+      "title": "(Karaoké+V.Chanté) | Le cadeau | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Le cadeau",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/gEPnwANUvUg/mqdefault.jpg"
+    },
     {
       "id": "ySHFYeA6gV0",
       "title": "(Karaoké) | Vérité | Martin Deschamps",
