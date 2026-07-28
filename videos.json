@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-07-26T18:27:01.052353",
-  "total": 2033,
+  "last_updated": "2026-07-28T19:21:26.919157",
+  "total": 2035,
   "channel_name": "Les Karapottés",
-  "subscribers": 1800,
-  "total_views": 768991,
-  "video_count": 2032,
+  "subscribers": 1810,
+  "total_views": 770825,
+  "video_count": 2034,
   "videos": [
+    {
+      "id": "6Sh5TL--maI",
+      "title": "(Karaoké) | Tout le monde veut aller au ciel mais personne ne veut mourir | Petula Clark",
+      "artist": "Petula Clark",
+      "song": "Tout le monde veut aller au ciel mais personne ne veut mourir",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/6Sh5TL--maI/mqdefault.jpg"
+    },
+    {
+      "id": "GzW3jxxaITw",
+      "title": "(Karaoké+V.Chanté) | Tout le monde veut aller au ciel mais personne ne veut mourir | Petula Clark",
+      "artist": "Petula Clark",
+      "song": "Tout le monde veut aller au ciel mais personne ne veut mourir",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/GzW3jxxaITw/mqdefault.jpg"
+    },
     {
       "id": "XSompfBLjHE",
       "title": "(Karaoké) | L'homme des tavernes | Dj.Pete",
