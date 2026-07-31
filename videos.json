@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-07-30T22:44:22.254601",
-  "total": 2039,
+  "last_updated": "2026-07-31T13:57:12.052286",
+  "total": 2042,
   "channel_name": "Les Karapottés",
   "subscribers": 1820,
-  "total_views": 774396,
-  "video_count": 2038,
+  "total_views": 775818,
+  "video_count": 2041,
   "videos": [
+    {
+      "id": "Ho5SFb_gmuE",
+      "title": "(Karaoké) | J'ai pris le temps | Gaston Mandeville",
+      "artist": "Gaston Mandeville",
+      "song": "J'ai pris le temps",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Ho5SFb_gmuE/mqdefault.jpg"
+    },
+    {
+      "id": "Sxp_FKQtir4",
+      "title": "(Karaoké+Back Vocal) | J'ai pris le temps | Gaston Mandeville",
+      "artist": "Gaston Mandeville",
+      "song": "J'ai pris le temps",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/Sxp_FKQtir4/mqdefault.jpg"
+    },
+    {
+      "id": "gUxToKDmlsk",
+      "title": "(Karaoké+V.Chanté) | J'ai pris le temps | Gaston Mandeville",
+      "artist": "Gaston Mandeville",
+      "song": "J'ai pris le temps",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/gUxToKDmlsk/mqdefault.jpg"
+    },
     {
       "id": "lOsETV4Rrc4",
       "title": "(Karaoké) | D'Amour P.Q | France D'Amour",
