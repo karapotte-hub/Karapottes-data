@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-07-28T19:21:26.919157",
-  "total": 2035,
+  "last_updated": "2026-07-30T22:44:22.254601",
+  "total": 2039,
   "channel_name": "Les Karapottés",
-  "subscribers": 1810,
-  "total_views": 770825,
-  "video_count": 2034,
+  "subscribers": 1820,
+  "total_views": 774396,
+  "video_count": 2038,
   "videos": [
+    {
+      "id": "lOsETV4Rrc4",
+      "title": "(Karaoké) | D'Amour P.Q | France D'Amour",
+      "artist": "France D'Amour",
+      "song": "D'Amour P.Q",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/lOsETV4Rrc4/mqdefault.jpg"
+    },
+    {
+      "id": "-pUhLbneMvE",
+      "title": "(Karaoké+V.Chanté) | D'Amour P.Q | France D'Amour",
+      "artist": "France D'Amour",
+      "song": "D'Amour P.Q",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/-pUhLbneMvE/mqdefault.jpg"
+    },
+    {
+      "id": "6bPvcJhvg-c",
+      "title": "(Karaoké) | La noce du consommateur | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "La noce du consommateur",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/6bPvcJhvg-c/mqdefault.jpg"
+    },
+    {
+      "id": "zNcdxqNezsg",
+      "title": "(Karaoké+V.Chanté) | La noce du consommateur | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "La noce du consommateur",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/zNcdxqNezsg/mqdefault.jpg"
+    },
     {
       "id": "6Sh5TL--maI",
       "title": "(Karaoké) | Tout le monde veut aller au ciel mais personne ne veut mourir | Petula Clark",
