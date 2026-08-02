@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-07-31T13:57:12.052286",
+  "last_updated": "2026-08-02T18:09:04.785164",
   "total": 2042,
   "channel_name": "Les Karapottés",
   "subscribers": 1820,
   "total_views": 775818,
   "video_count": 2041,
   "videos": [
+    {
+      "id": "eXbTo0sRXaQ",
+      "title": "(Karaoké) | Daniel Boone | Borlico",
+      "artist": "Borlico",
+      "song": "Daniel Boone",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/eXbTo0sRXaQ/mqdefault.jpg"
+    },
+    {
+      "id": "kVU8OWqOg4I",
+      "title": "(Karaoké+Back Vocal) | Daniel Boone | Borlico",
+      "artist": "Borlico",
+      "song": "Daniel Boone",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/kVU8OWqOg4I/mqdefault.jpg"
+    },
+    {
+      "id": "W-CHhWdovUk",
+      "title": "(Karaoké+V.Chanté) | Daniel Boone | Borlico",
+      "artist": "Borlico",
+      "song": "Daniel Boone",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/W-CHhWdovUk/mqdefault.jpg"
+    },
     {
       "id": "Ho5SFb_gmuE",
       "title": "(Karaoké) | J'ai pris le temps | Gaston Mandeville",
@@ -1245,30 +1269,6 @@
       "song": "[hors-série] On fait un Karaoké en live",
       "type": "autre",
       "thumb": "https://i.ytimg.com/vi/hXrXWRxOCoE/mqdefault.jpg"
-    },
-    {
-      "id": "O8RP6EJWn04",
-      "title": "(Karaoké) | Je m'ennuie de toi | André Sylvain",
-      "artist": "André Sylvain",
-      "song": "Je m'ennuie de toi",
-      "type": "karaoke",
-      "thumb": "https://i.ytimg.com/vi/O8RP6EJWn04/mqdefault.jpg"
-    },
-    {
-      "id": "DajQ9b94qS4",
-      "title": "(Karaoké+Back Vocal) | Je m'ennuie de toi | André Sylvain",
-      "artist": "André Sylvain",
-      "song": "Je m'ennuie de toi",
-      "type": "backvocal",
-      "thumb": "https://i.ytimg.com/vi/DajQ9b94qS4/mqdefault.jpg"
-    },
-    {
-      "id": "5Q47GT_g4wk",
-      "title": "(Karaoké+V.Chanté) | Je m'ennuie de toi | André Sylvain",
-      "artist": "André Sylvain",
-      "song": "Je m'ennuie de toi",
-      "type": "voix",
-      "thumb": "https://i.ytimg.com/vi/5Q47GT_g4wk/mqdefault.jpg"
     },
     {
       "id": "Bpj_OYj9_PM",
