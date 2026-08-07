@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-08-02T18:09:04.785164",
-  "total": 2042,
+  "last_updated": "2026-08-07T11:34:24.233128",
+  "total": 2049,
   "channel_name": "Les Karapottés",
-  "subscribers": 1820,
-  "total_views": 775818,
-  "video_count": 2041,
+  "subscribers": 1840,
+  "total_views": 784233,
+  "video_count": 2048,
   "videos": [
+    {
+      "id": "kbi8hZqOLfs",
+      "title": "(Karaoké) | Amène le vent | Ronald Bourgeois",
+      "artist": "Ronald Bourgeois",
+      "song": "Amène le vent",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/kbi8hZqOLfs/mqdefault.jpg"
+    },
+    {
+      "id": "DecTioxAC-E",
+      "title": "(Karaoké+Back Vocal) | Amène le vent | Ronald Bourgeois",
+      "artist": "Ronald Bourgeois",
+      "song": "Amène le vent",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/DecTioxAC-E/mqdefault.jpg"
+    },
+    {
+      "id": "Iyg6BkVKT80",
+      "title": "(Karaoké+V.Chanté) | Amène le vent | Ronald Bourgeois",
+      "artist": "Ronald Bourgeois",
+      "song": "Amène le vent",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Iyg6BkVKT80/mqdefault.jpg"
+    },
+    {
+      "id": "7rp-_i0lHm0",
+      "title": "(Karaoké) | Le jour du dernier jour | Carl Williams",
+      "artist": "Carl Williams",
+      "song": "Le jour du dernier jour",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/7rp-_i0lHm0/mqdefault.jpg"
+    },
+    {
+      "id": "TTSb84Ag6PE",
+      "title": "(Karaoké+V.Chanté) | Le jour du dernier jour | Carl Williams",
+      "artist": "Carl Williams",
+      "song": "Le jour du dernier jour",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/TTSb84Ag6PE/mqdefault.jpg"
+    },
+    {
+      "id": "XZSEHCsQL_0",
+      "title": "(Karaoké) | Noël du campeur | Carl1976",
+      "artist": "Carl1976",
+      "song": "Noël du campeur",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/XZSEHCsQL_0/mqdefault.jpg"
+    },
+    {
+      "id": "z6MMkCby3po",
+      "title": "(Karaoké+V.Chanté) | Noël du campeur | Carl1976",
+      "artist": "Carl1976",
+      "song": "Noël du campeur",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/z6MMkCby3po/mqdefault.jpg"
+    },
     {
       "id": "eXbTo0sRXaQ",
       "title": "(Karaoké) | Daniel Boone | Borlico",
