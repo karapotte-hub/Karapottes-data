@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-08-07T11:34:24.233128",
-  "total": 2049,
+  "last_updated": "2026-08-07T20:16:44.657749",
+  "total": 2052,
   "channel_name": "Les Karapottés",
   "subscribers": 1840,
-  "total_views": 784233,
-  "video_count": 2048,
+  "total_views": 785092,
+  "video_count": 2051,
   "videos": [
+    {
+      "id": "vI4IfjY0URA",
+      "title": "(Karaoké) | Le bon bonhomme Tom | Richard Adams",
+      "artist": "Richard Adams",
+      "song": "Le bon bonhomme Tom",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/vI4IfjY0URA/mqdefault.jpg"
+    },
+    {
+      "id": "jkMYG4rFXSY",
+      "title": "(Karaoké+Back Vocal) | Le bon bonhomme Tom | Richard Adams",
+      "artist": "Richard Adams",
+      "song": "Le bon bonhomme Tom",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/jkMYG4rFXSY/mqdefault.jpg"
+    },
+    {
+      "id": "3Wf1Evwwsgo",
+      "title": "(Karaoké+V.Chanté) | Le bon bonhomme Tom | Richard Adams",
+      "artist": "Richard Adams",
+      "song": "Le bon bonhomme Tom",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/3Wf1Evwwsgo/mqdefault.jpg"
+    },
     {
       "id": "kbi8hZqOLfs",
       "title": "(Karaoké) | Amène le vent | Ronald Bourgeois",
