@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-08-07T20:16:44.657749",
-  "total": 2052,
+  "last_updated": "2026-08-08T14:54:20.429672",
+  "total": 2054,
   "channel_name": "Les Karapottés",
   "subscribers": 1840,
-  "total_views": 785092,
-  "video_count": 2051,
+  "total_views": 786652,
+  "video_count": 2053,
   "videos": [
+    {
+      "id": "P86AHcm6q68",
+      "title": "(Karaoké) | Adieu | Margot Lefebvre",
+      "artist": "Margot Lefebvre",
+      "song": "Adieu",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/P86AHcm6q68/mqdefault.jpg"
+    },
+    {
+      "id": "8SYEMFnCMM8",
+      "title": "(Karaoké+V.Chanté) | Adieu | Margot Lefebvre",
+      "artist": "Margot Lefebvre",
+      "song": "Adieu",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/8SYEMFnCMM8/mqdefault.jpg"
+    },
     {
       "id": "vI4IfjY0URA",
       "title": "(Karaoké) | Le bon bonhomme Tom | Richard Adams",
