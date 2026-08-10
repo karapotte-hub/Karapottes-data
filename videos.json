@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-08-08T14:54:20.429672",
-  "total": 2054,
+  "last_updated": "2026-08-10T18:25:56.110320",
+  "total": 2056,
   "channel_name": "Les Karapottés",
   "subscribers": 1840,
-  "total_views": 786652,
-  "video_count": 2053,
+  "total_views": 789784,
+  "video_count": 2055,
   "videos": [
+    {
+      "id": "KLOATLODj_Q",
+      "title": "(Karaoké) | Madame Rose | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Madame Rose",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/KLOATLODj_Q/mqdefault.jpg"
+    },
+    {
+      "id": "CkJFSNy6BFg",
+      "title": "(Karaoké+V.Chanté) | Madame Rose | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Madame Rose",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/CkJFSNy6BFg/mqdefault.jpg"
+    },
     {
       "id": "P86AHcm6q68",
       "title": "(Karaoké) | Adieu | Margot Lefebvre",
