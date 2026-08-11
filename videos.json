@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-08-10T18:25:56.110320",
-  "total": 2056,
+  "last_updated": "2026-08-11T14:13:18.755509",
+  "total": 2060,
   "channel_name": "Les Karapottés",
   "subscribers": 1840,
-  "total_views": 789784,
-  "video_count": 2055,
+  "total_views": 791170,
+  "video_count": 2059,
   "videos": [
+    {
+      "id": "VlV96TjEfc4",
+      "title": "(Karaoké) | Je roule au son du Rock'n Roll | Mario Benjamin",
+      "artist": "Mario Benjamin",
+      "song": "Je roule au son du Rock'n Roll",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/VlV96TjEfc4/mqdefault.jpg"
+    },
+    {
+      "id": "hq_Nunx73tw",
+      "title": "(Karaoké+V.Chanté) | Je roule au son du Rock'n Roll | Mario Benjamin",
+      "artist": "Mario Benjamin",
+      "song": "Je roule au son du Rock'n Roll",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/hq_Nunx73tw/mqdefault.jpg"
+    },
+    {
+      "id": "80muMX1dWSg",
+      "title": "(Karaoké) | Le Petit Chinois En Tuxedos Vert Et Bleu | Patrick Zabé",
+      "artist": "Patrick Zabé",
+      "song": "Le Petit Chinois En Tuxedos Vert Et Bleu",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/80muMX1dWSg/mqdefault.jpg"
+    },
+    {
+      "id": "kTLVrFYNZEk",
+      "title": "(Karaoké+V.Chanté) | Le Petit Chinois En Tuxedos Vert Et Bleu | Patrick Zabé",
+      "artist": "Patrick Zabé",
+      "song": "Le Petit Chinois En Tuxedos Vert Et Bleu",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/kTLVrFYNZEk/mqdefault.jpg"
+    },
     {
       "id": "KLOATLODj_Q",
       "title": "(Karaoké) | Madame Rose | Patrick Norman",
