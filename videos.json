@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-08-13T13:56:09.678993",
-  "total": 2061,
+  "last_updated": "2026-08-13T17:03:03.618392",
+  "total": 2062,
   "channel_name": "Les Karapottés",
   "subscribers": 1840,
   "total_views": 793584,
-  "video_count": 2060,
+  "video_count": 2061,
   "videos": [
+    {
+      "id": "GU19FVYasCE",
+      "title": "(Karaoké) | Simple Passager | Guylaine Tanguay",
+      "artist": "Guylaine Tanguay",
+      "song": "Simple Passager",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/GU19FVYasCE/mqdefault.jpg"
+    },
+    {
+      "id": "louWydAeXJ4",
+      "title": "(Karaoké+V.Chanté) | Simple Passager | Guylaine Tanguay",
+      "artist": "Guylaine Tanguay",
+      "song": "Simple Passager",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/louWydAeXJ4/mqdefault.jpg"
+    },
     {
       "id": "VlV96TjEfc4",
       "title": "(Karaoké) | Je roule au son du Rock'n Roll | Mario Benjamin",
@@ -11197,14 +11213,6 @@
       "song": "Des bêtises",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/qqSo78qozrQ/mqdefault.jpg"
-    },
-    {
-      "id": "ZYF9ACIKCO0",
-      "title": "Donald Lautrec - Des bêtises (Karaoké)",
-      "artist": "Donald Lautrec",
-      "song": "Des bêtises",
-      "type": "karaoke",
-      "thumb": "https://i.ytimg.com/vi/ZYF9ACIKCO0/mqdefault.jpg"
     },
     {
       "id": "ZYF9ACIKCO0",
