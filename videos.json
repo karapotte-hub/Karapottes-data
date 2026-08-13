@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-11T14:13:18.755509",
-  "total": 2060,
+  "last_updated": "2026-08-13T13:56:09.678993",
+  "total": 2061,
   "channel_name": "Les Karapottés",
   "subscribers": 1840,
-  "total_views": 791170,
-  "video_count": 2059,
+  "total_views": 793584,
+  "video_count": 2060,
   "videos": [
     {
       "id": "VlV96TjEfc4",
@@ -11197,6 +11197,14 @@
       "song": "Des bêtises",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/qqSo78qozrQ/mqdefault.jpg"
+    },
+    {
+      "id": "ZYF9ACIKCO0",
+      "title": "Donald Lautrec - Des bêtises (Karaoké)",
+      "artist": "Donald Lautrec",
+      "song": "Des bêtises",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/ZYF9ACIKCO0/mqdefault.jpg"
     },
     {
       "id": "ZYF9ACIKCO0",
