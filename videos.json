@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-08-14T21:33:04.119484",
-  "total": 2065,
+  "last_updated": "2026-08-15T18:09:27.094165",
+  "total": 2067,
   "channel_name": "Les Karapottés",
   "subscribers": 1850,
-  "total_views": 794850,
-  "video_count": 2064,
+  "total_views": 796568,
+  "video_count": 2066,
   "videos": [
+    {
+      "id": "GDT4d-X5n4s",
+      "title": "(Karaoké) | Je l’aime encore | Daniel DeShaime",
+      "artist": "Daniel DeShaime",
+      "song": "Je l’aime encore",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/GDT4d-X5n4s/mqdefault.jpg"
+    },
+    {
+      "id": "Hh_-NaX98qQ",
+      "title": "(Karaoké+V.Chanté) | Je l’aime encore | Daniel DeShaime",
+      "artist": "Daniel DeShaime",
+      "song": "Je l’aime encore",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Hh_-NaX98qQ/mqdefault.jpg"
+    },
     {
       "id": "wFHfVgFNppc",
       "title": "(Karaoké) | La fête du mort | Plume Latraverse",
