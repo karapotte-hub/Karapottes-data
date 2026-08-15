@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-08-13T17:03:03.618392",
-  "total": 2062,
+  "last_updated": "2026-08-14T21:33:04.119484",
+  "total": 2065,
   "channel_name": "Les Karapottés",
-  "subscribers": 1840,
-  "total_views": 793584,
-  "video_count": 2061,
+  "subscribers": 1850,
+  "total_views": 794850,
+  "video_count": 2064,
   "videos": [
+    {
+      "id": "wFHfVgFNppc",
+      "title": "(Karaoké) | La fête du mort | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "La fête du mort",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/wFHfVgFNppc/mqdefault.jpg"
+    },
+    {
+      "id": "AulBm76ulW4",
+      "title": "(Karaoké+Back Vocal) | La fête du mort | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "La fête du mort",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/AulBm76ulW4/mqdefault.jpg"
+    },
+    {
+      "id": "-iQBTKdxyYU",
+      "title": "(Karaoké+V.Chanté) | La fête du mort | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "La fête du mort",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/-iQBTKdxyYU/mqdefault.jpg"
+    },
     {
       "id": "GU19FVYasCE",
       "title": "(Karaoké) | Simple Passager | Guylaine Tanguay",
