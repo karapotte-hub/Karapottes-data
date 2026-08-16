@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-08-15T18:09:27.094165",
-  "total": 2067,
+  "last_updated": "2026-08-16T11:31:34.564210",
+  "total": 2069,
   "channel_name": "Les Karapottés",
   "subscribers": 1850,
-  "total_views": 796568,
-  "video_count": 2066,
+  "total_views": 797028,
+  "video_count": 2068,
   "videos": [
+    {
+      "id": "lr11yunO8Zc",
+      "title": "(Karaoké) | Dis bonjour à tous les copains | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Dis bonjour à tous les copains",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/lr11yunO8Zc/mqdefault.jpg"
+    },
+    {
+      "id": "_br-lrlRXAQ",
+      "title": "(Karaoké+V.Chanté) | Dis bonjour à tous les copains | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Dis bonjour à tous les copains",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/_br-lrlRXAQ/mqdefault.jpg"
+    },
     {
       "id": "GDT4d-X5n4s",
       "title": "(Karaoké) | Je l’aime encore | Daniel DeShaime",
