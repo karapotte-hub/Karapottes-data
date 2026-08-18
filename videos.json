@@ -1,18 +1,26 @@
 {
-  "last_updated": "2026-08-17T20:21:17.511740",
-  "total": 2071,
+  "last_updated": "2026-08-18T12:59:47.777002",
+  "total": 2072,
   "channel_name": "Les Karapottés",
   "subscribers": 1850,
-  "total_views": 799731,
-  "video_count": 2070,
+  "total_views": 801147,
+  "video_count": 2072,
   "videos": [
     {
-      "id": "s78to1LR-Us",
-      "title": "Guylaine Tanguay   Simple passager #shorts",
-      "artist": "Divers",
-      "song": "Guylaine Tanguay   Simple passager #shorts",
-      "type": "autre",
-      "thumb": "https://i.ytimg.com/vi/s78to1LR-Us/mqdefault.jpg"
+      "id": "vkxhYqTO6Gc",
+      "title": "(Karaoké) | La vieille bagnole | Hugo Lapointe",
+      "artist": "Hugo Lapointe",
+      "song": "La vieille bagnole",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/vkxhYqTO6Gc/mqdefault.jpg"
+    },
+    {
+      "id": "bAMT4qQxMhA",
+      "title": "(Karaoké+V.Chanté) | La vieille bagnole | Hugo Lapointe",
+      "artist": "Hugo Lapointe",
+      "song": "La vieille bagnole",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/bAMT4qQxMhA/mqdefault.jpg"
     },
     {
       "id": "bAvdX37Kfpk",
