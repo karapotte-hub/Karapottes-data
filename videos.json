@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-08-18T12:59:47.777002",
-  "total": 2072,
+  "last_updated": "2026-08-20T10:17:02.123671",
+  "total": 2074,
   "channel_name": "Les Karapottés",
   "subscribers": 1850,
-  "total_views": 801147,
-  "video_count": 2072,
+  "total_views": 802696,
+  "video_count": 2074,
   "videos": [
+    {
+      "id": "DBhRWaRpVQ0",
+      "title": "(Karaoké) | Amoureux de vous madame | Frank Olivier",
+      "artist": "Frank Olivier",
+      "song": "Amoureux de vous madame",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/DBhRWaRpVQ0/mqdefault.jpg"
+    },
+    {
+      "id": "jJZSgRQTcp8",
+      "title": "(Karaoké+V.Chanté) | Amoureux de vous madame | Frank Olivier",
+      "artist": "Frank Olivier",
+      "song": "Amoureux de vous madame",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/jJZSgRQTcp8/mqdefault.jpg"
+    },
     {
       "id": "vkxhYqTO6Gc",
       "title": "(Karaoké) | La vieille bagnole | Hugo Lapointe",
