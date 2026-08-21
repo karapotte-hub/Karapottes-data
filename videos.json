@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-08-20T10:17:02.123671",
-  "total": 2074,
+  "last_updated": "2026-08-21T10:51:55.226417",
+  "total": 2076,
   "channel_name": "Les Karapottés",
-  "subscribers": 1850,
-  "total_views": 802696,
-  "video_count": 2074,
+  "subscribers": 1860,
+  "total_views": 803747,
+  "video_count": 2076,
   "videos": [
+    {
+      "id": "ihsGMbyCA_s",
+      "title": "(Karaoké) | Lisa Belle | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Lisa Belle",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/ihsGMbyCA_s/mqdefault.jpg"
+    },
+    {
+      "id": "pRgkV-KJt60",
+      "title": "(Karaoké+V.Chanté) | Lisa Belle | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Lisa Belle",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/pRgkV-KJt60/mqdefault.jpg"
+    },
     {
       "id": "DBhRWaRpVQ0",
       "title": "(Karaoké) | Amoureux de vous madame | Frank Olivier",
