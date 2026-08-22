@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-08-21T10:51:55.226417",
-  "total": 2076,
+  "last_updated": "2026-08-22T16:20:55.360822",
+  "total": 2078,
   "channel_name": "Les Karapottés",
   "subscribers": 1860,
-  "total_views": 803747,
-  "video_count": 2076,
+  "total_views": 806321,
+  "video_count": 2078,
   "videos": [
+    {
+      "id": "VZanVIXtE1E",
+      "title": "(Karaoké) | Travailler c’est trop dur | Annie Blanchard",
+      "artist": "Annie Blanchard",
+      "song": "Travailler c’est trop dur",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/VZanVIXtE1E/mqdefault.jpg"
+    },
+    {
+      "id": "JUpIxwQ1fwM",
+      "title": "(Karaoké+V.Chanté) | Travailler c’est trop dur | Annie Blanchard",
+      "artist": "Annie Blanchard",
+      "song": "Travailler c’est trop dur",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/JUpIxwQ1fwM/mqdefault.jpg"
+    },
     {
       "id": "ihsGMbyCA_s",
       "title": "(Karaoké) | Lisa Belle | Plume Latraverse",
