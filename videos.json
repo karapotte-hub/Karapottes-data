@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-08-22T16:20:55.360822",
-  "total": 2078,
+  "last_updated": "2026-08-26T22:29:55.696138",
+  "total": 2083,
   "channel_name": "Les Karapottés",
-  "subscribers": 1860,
-  "total_views": 806321,
-  "video_count": 2078,
+  "subscribers": 1870,
+  "total_views": 811894,
+  "video_count": 2083,
   "videos": [
+    {
+      "id": "TxYZesvpr00",
+      "title": "(Karaoké+V.Chanté) | La récession | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "La récession",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/TxYZesvpr00/mqdefault.jpg"
+    },
+    {
+      "id": "zLsOu6WAUZc",
+      "title": "(Karaoké) | La récession | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "La récession",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/zLsOu6WAUZc/mqdefault.jpg"
+    },
+    {
+      "id": "Msxoq1u_jjk",
+      "title": "(Karaoké) | Turbo sympatique | Les 3 accords",
+      "artist": "Les 3 accords",
+      "song": "Turbo sympatique",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Msxoq1u_jjk/mqdefault.jpg"
+    },
+    {
+      "id": "WkjOWAP0Ahc",
+      "title": "(Karaoké+Back Vocal) | Turbo sympatique | Les 3 accords",
+      "artist": "Les 3 accords",
+      "song": "Turbo sympatique",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/WkjOWAP0Ahc/mqdefault.jpg"
+    },
+    {
+      "id": "2vZ_wQsY4F4",
+      "title": "(Karaoké+V.Chanté) | Turbo sympatique | Les 3 accords",
+      "artist": "Les 3 accords",
+      "song": "Turbo sympatique",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/2vZ_wQsY4F4/mqdefault.jpg"
+    },
     {
       "id": "VZanVIXtE1E",
       "title": "(Karaoké) | Travailler c’est trop dur | Annie Blanchard",
