@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-08-26T22:29:55.696138",
-  "total": 2083,
+  "last_updated": "2026-08-29T15:56:18.447547",
+  "total": 2089,
   "channel_name": "Les Karapottés",
   "subscribers": 1870,
-  "total_views": 811894,
-  "video_count": 2083,
+  "total_views": 817341,
+  "video_count": 2089,
   "videos": [
+    {
+      "id": "NoqI9fXqIFA",
+      "title": "(Karaoké) | C Okay | LGS",
+      "artist": "LGS",
+      "song": "C Okay",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/NoqI9fXqIFA/mqdefault.jpg"
+    },
+    {
+      "id": "1h77qjjRBiI",
+      "title": "(Karaoké+Back Vocal) | C Okay | LGS",
+      "artist": "LGS",
+      "song": "C Okay",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/1h77qjjRBiI/mqdefault.jpg"
+    },
+    {
+      "id": "-CNNL0K3Ht0",
+      "title": "(Karaoké+V.Chanté) | C Okay | LGS",
+      "artist": "LGS",
+      "song": "C Okay",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/-CNNL0K3Ht0/mqdefault.jpg"
+    },
+    {
+      "id": "yKcj9PoVFm8",
+      "title": "(Karaoké) | Marie Stone | Éric Lapointe",
+      "artist": "Éric Lapointe",
+      "song": "Marie Stone",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/yKcj9PoVFm8/mqdefault.jpg"
+    },
+    {
+      "id": "pM5Ah8RT7i4",
+      "title": "(Karaoké+Back Vocal) | Marie Stone | Éric Lapointe",
+      "artist": "Éric Lapointe",
+      "song": "Marie Stone",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/pM5Ah8RT7i4/mqdefault.jpg"
+    },
+    {
+      "id": "grjngcPwVPY",
+      "title": "(Karaoké+V.Chanté) | Marie Stone | Éric Lapointe",
+      "artist": "Éric Lapointe",
+      "song": "Marie Stone",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/grjngcPwVPY/mqdefault.jpg"
+    },
     {
       "id": "TxYZesvpr00",
       "title": "(Karaoké+V.Chanté) | La récession | Dj.Pete",
