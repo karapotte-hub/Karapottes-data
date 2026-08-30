@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-08-29T15:56:18.447547",
-  "total": 2089,
+  "last_updated": "2026-08-30T14:47:52.365950",
+  "total": 2094,
   "channel_name": "Les Karapottés",
   "subscribers": 1870,
-  "total_views": 817341,
-  "video_count": 2089,
+  "total_views": 820390,
+  "video_count": 2094,
   "videos": [
+    {
+      "id": "KVlvlOBHax4",
+      "title": "(Karaoké) | Personne ne m'aime | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Personne ne m'aime",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/KVlvlOBHax4/mqdefault.jpg"
+    },
+    {
+      "id": "KV3sjJleiIg",
+      "title": "(Karaoké+Back Vocal) | Personne ne m'aime | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Personne ne m'aime",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/KV3sjJleiIg/mqdefault.jpg"
+    },
+    {
+      "id": "e5DlSzv8i-M",
+      "title": "(Karaoké+V.Chanté) | Personne ne m'aime | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Personne ne m'aime",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/e5DlSzv8i-M/mqdefault.jpg"
+    },
+    {
+      "id": "eJPwA0-g-UI",
+      "title": "(Karaoké) | Personne ne m'aime | Capitaine Nô",
+      "artist": "Capitaine Nô",
+      "song": "Personne ne m'aime",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/eJPwA0-g-UI/mqdefault.jpg"
+    },
+    {
+      "id": "QY33F60uIaQ",
+      "title": "(Karaoké+V.Chanté) | Personne ne m'aime | Capitaine Nô",
+      "artist": "Capitaine Nô",
+      "song": "Personne ne m'aime",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/QY33F60uIaQ/mqdefault.jpg"
+    },
     {
       "id": "NoqI9fXqIFA",
       "title": "(Karaoké) | C Okay | LGS",
