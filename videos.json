@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-08-30T14:47:52.365950",
-  "total": 2094,
+  "last_updated": "2026-08-31T16:43:36.518583",
+  "total": 2097,
   "channel_name": "Les Karapottés",
-  "subscribers": 1870,
-  "total_views": 820390,
-  "video_count": 2094,
+  "subscribers": 1880,
+  "total_views": 822594,
+  "video_count": 2097,
   "videos": [
+    {
+      "id": "CJqwJp17_qI",
+      "title": "(Karaoké) | De temps en temps moi j’ai les bleus | Angèle Artsenault",
+      "artist": "Angèle Artsenault",
+      "song": "De temps en temps moi j’ai les bleus",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/CJqwJp17_qI/mqdefault.jpg"
+    },
+    {
+      "id": "ibNuqIGu1nM",
+      "title": "(Karaoké+Back Vocal) | De temps en temps moi j’ai les bleus | Angèle Artsenault",
+      "artist": "Angèle Artsenault",
+      "song": "De temps en temps moi j’ai les bleus",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/ibNuqIGu1nM/mqdefault.jpg"
+    },
+    {
+      "id": "FxfjC7fXtME",
+      "title": "(Karaoké+V.Chanté) | De temps en temps moi j’ai les bleus | Angèle Artsenault",
+      "artist": "Angèle Artsenault",
+      "song": "De temps en temps moi j’ai les bleus",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/FxfjC7fXtME/mqdefault.jpg"
+    },
     {
       "id": "KVlvlOBHax4",
       "title": "(Karaoké) | Personne ne m'aime | Dj.Pete",
