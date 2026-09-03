@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-08-31T16:43:36.518583",
-  "total": 2097,
+  "last_updated": "2026-09-03T13:17:33.325660",
+  "total": 2101,
   "channel_name": "Les Karapottés",
-  "subscribers": 1880,
-  "total_views": 822594,
-  "video_count": 2097,
+  "subscribers": 1890,
+  "total_views": 826706,
+  "video_count": 2101,
   "videos": [
+    {
+      "id": "_qy898MMXEc",
+      "title": "(Karaoké) | Su'l bord d'un feu | Jace",
+      "artist": "Jace",
+      "song": "Su'l bord d'un feu",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/_qy898MMXEc/mqdefault.jpg"
+    },
+    {
+      "id": "oFkMcIchsCU",
+      "title": "(Karaoké+V.Chanté) | Su'l bord d'un feu | Jace",
+      "artist": "Jace",
+      "song": "Su'l bord d'un feu",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/oFkMcIchsCU/mqdefault.jpg"
+    },
+    {
+      "id": "pvS0rbO29Ys",
+      "title": "(Karaoké) | Jamais aimé avant | Pierre Bertrand",
+      "artist": "Pierre Bertrand",
+      "song": "Jamais aimé avant",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/pvS0rbO29Ys/mqdefault.jpg"
+    },
+    {
+      "id": "pjRyr9PfA4s",
+      "title": "(Karaoké+V.Chanté) | Jamais aimé avant | Pierre Bertrand",
+      "artist": "Pierre Bertrand",
+      "song": "Jamais aimé avant",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/pjRyr9PfA4s/mqdefault.jpg"
+    },
     {
       "id": "CJqwJp17_qI",
       "title": "(Karaoké) | De temps en temps moi j’ai les bleus | Angèle Artsenault",
