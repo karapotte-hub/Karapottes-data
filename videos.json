@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-09-03T13:17:33.325660",
-  "total": 2101,
+  "last_updated": "2026-09-06T15:39:56.759806",
+  "total": 2103,
   "channel_name": "Les Karapottés",
   "subscribers": 1890,
-  "total_views": 826706,
-  "video_count": 2101,
+  "total_views": 835738,
+  "video_count": 2103,
   "videos": [
+    {
+      "id": "jT0ojmaoVQg",
+      "title": "(Karaoké) | Yes à pichou | Les Karriks",
+      "artist": "Les Karriks",
+      "song": "Yes à pichou",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/jT0ojmaoVQg/mqdefault.jpg"
+    },
+    {
+      "id": "33EPWNk9vPs",
+      "title": "(Karaoké+V.Chanté) | Yes à pichou | Les Karriks",
+      "artist": "Les Karriks",
+      "song": "Yes à pichou",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/33EPWNk9vPs/mqdefault.jpg"
+    },
     {
       "id": "_qy898MMXEc",
       "title": "(Karaoké) | Su'l bord d'un feu | Jace",
