@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-09-06T15:39:56.759806",
-  "total": 2103,
+  "last_updated": "2026-09-09T16:28:49.747925",
+  "total": 2107,
   "channel_name": "Les Karapottés",
-  "subscribers": 1890,
-  "total_views": 835738,
-  "video_count": 2103,
+  "subscribers": 1900,
+  "total_views": 839596,
+  "video_count": 2107,
   "videos": [
+    {
+      "id": "IqvdEKPiwao",
+      "title": "(Karaoké+V.Chanté) | T'envoler | Paul Daraiche",
+      "artist": "Paul Daraiche",
+      "song": "T'envoler",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/IqvdEKPiwao/mqdefault.jpg"
+    },
+    {
+      "id": "UJGPzXQOn8c",
+      "title": "(Karaoké+V.Chanté) | T'envoler | Paul Daraiche",
+      "artist": "Paul Daraiche",
+      "song": "T'envoler",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/UJGPzXQOn8c/mqdefault.jpg"
+    },
+    {
+      "id": "1STepvD7wKU",
+      "title": "(Karaoké) | Films d'amour | Jace",
+      "artist": "Jace",
+      "song": "Films d'amour",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/1STepvD7wKU/mqdefault.jpg"
+    },
+    {
+      "id": "i1KV2PEhRW4",
+      "title": "(Karaoké+V.Chanté) | Films d'amour | Jace",
+      "artist": "Jace",
+      "song": "Films d'amour",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/i1KV2PEhRW4/mqdefault.jpg"
+    },
     {
       "id": "jT0ojmaoVQg",
       "title": "(Karaoké) | Yes à pichou | Les Karriks",
