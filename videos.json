@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-09-09T16:28:49.747925",
-  "total": 2107,
+  "last_updated": "2026-09-12T13:22:38.743171",
+  "total": 2108,
   "channel_name": "Les Karapottés",
   "subscribers": 1900,
-  "total_views": 839596,
-  "video_count": 2107,
+  "total_views": 848322,
+  "video_count": 2109,
   "videos": [
+    {
+      "id": "OIEas60pd20",
+      "title": "(Karaoké+V.Chanté) | Juste une bière ou une 24 | Carl1976",
+      "artist": "Carl1976",
+      "song": "Juste une bière ou une 24",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/OIEas60pd20/mqdefault.jpg"
+    },
+    {
+      "id": "tlR_55WIGXU",
+      "title": "(Karaoké) | T'envoler | Paul Daraiche",
+      "artist": "Paul Daraiche",
+      "song": "T'envoler",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/tlR_55WIGXU/mqdefault.jpg"
+    },
     {
       "id": "IqvdEKPiwao",
       "title": "(Karaoké+V.Chanté) | T'envoler | Paul Daraiche",
@@ -13,14 +29,6 @@
       "song": "T'envoler",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/IqvdEKPiwao/mqdefault.jpg"
-    },
-    {
-      "id": "UJGPzXQOn8c",
-      "title": "(Karaoké+V.Chanté) | T'envoler | Paul Daraiche",
-      "artist": "Paul Daraiche",
-      "song": "T'envoler",
-      "type": "voix",
-      "thumb": "https://i.ytimg.com/vi/UJGPzXQOn8c/mqdefault.jpg"
     },
     {
       "id": "1STepvD7wKU",
