@@ -1,11 +1,83 @@
 {
-  "last_updated": "2026-09-12T13:22:38.743171",
-  "total": 2108,
+  "last_updated": "2026-09-17T13:50:26.024180",
+  "total": 2117,
   "channel_name": "Les Karapottés",
-  "subscribers": 1900,
-  "total_views": 848322,
-  "video_count": 2109,
+  "subscribers": 1910,
+  "total_views": 859038,
+  "video_count": 2117,
   "videos": [
+    {
+      "id": "Qr8znOoSoVI",
+      "title": "(Karaoké) | Motel Motté | Bleu Jeans Bleu",
+      "artist": "Bleu Jeans Bleu",
+      "song": "Motel Motté",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Qr8znOoSoVI/mqdefault.jpg"
+    },
+    {
+      "id": "abPlglNnFYE",
+      "title": "(Karaoké+Back Vocal) | Motel Motté | Bleu Jeans Bleu",
+      "artist": "Bleu Jeans Bleu",
+      "song": "Motel Motté",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/abPlglNnFYE/mqdefault.jpg"
+    },
+    {
+      "id": "u2tjVcsF_hE",
+      "title": "(Karaoké+V.Chanté) | Motel Motté | Bleu Jeans Bleu",
+      "artist": "Bleu Jeans Bleu",
+      "song": "Motel Motté",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/u2tjVcsF_hE/mqdefault.jpg"
+    },
+    {
+      "id": "03ksRYyMCAM",
+      "title": "(Karaoké) | Ensemble | Jace",
+      "artist": "Jace",
+      "song": "Ensemble",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/03ksRYyMCAM/mqdefault.jpg"
+    },
+    {
+      "id": "dKaBfWZdruM",
+      "title": "(Karaoké+V.Chanté) | Ensemble | Jace",
+      "artist": "Jace",
+      "song": "Ensemble",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/dKaBfWZdruM/mqdefault.jpg"
+    },
+    {
+      "id": "OYK-2hMZp58",
+      "title": "(Karaoké) | Chanson nette | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Chanson nette",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/OYK-2hMZp58/mqdefault.jpg"
+    },
+    {
+      "id": "LIx9CoWUuZ0",
+      "title": "(Karaoké+Back Vocal) | Chanson nette | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Chanson nette",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/LIx9CoWUuZ0/mqdefault.jpg"
+    },
+    {
+      "id": "3pSXTcXQz_E",
+      "title": "(Karaoké+V.Chanté) | Chanson nette | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Chanson nette",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/3pSXTcXQz_E/mqdefault.jpg"
+    },
+    {
+      "id": "2DdmoEHMyQU",
+      "title": "(Karaoké) | Juste une bière ou une 24 | Carl1976",
+      "artist": "Carl1976",
+      "song": "Juste une bière ou une 24",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/2DdmoEHMyQU/mqdefault.jpg"
+    },
     {
       "id": "OIEas60pd20",
       "title": "(Karaoké+V.Chanté) | Juste une bière ou une 24 | Carl1976",
