@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-09-17T13:50:26.024180",
-  "total": 2117,
+  "last_updated": "2026-09-18T18:14:43.800616",
+  "total": 2120,
   "channel_name": "Les Karapottés",
   "subscribers": 1910,
-  "total_views": 859038,
-  "video_count": 2117,
+  "total_views": 860991,
+  "video_count": 2120,
   "videos": [
+    {
+      "id": "jAIxdissB1g",
+      "title": "(Karaoké) | Lettre à un cowboy | Mitsou et Clément Jacques",
+      "artist": "Mitsou et Clément Jacques",
+      "song": "Lettre à un cowboy",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/jAIxdissB1g/mqdefault.jpg"
+    },
+    {
+      "id": "iz6aw6fUUHQ",
+      "title": "(Karaoké+Back Vocal) | Lettre à un cowboy | Mitsou et Clément Jacques",
+      "artist": "Mitsou et Clément Jacques",
+      "song": "Lettre à un cowboy",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/iz6aw6fUUHQ/mqdefault.jpg"
+    },
+    {
+      "id": "UMA4IkU6OtA",
+      "title": "(Karaoké+V.Chanté) | Lettre à un cowboy | Mitsou et Clément Jacques",
+      "artist": "Mitsou et Clément Jacques",
+      "song": "Lettre à un cowboy",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/UMA4IkU6OtA/mqdefault.jpg"
+    },
     {
       "id": "Qr8znOoSoVI",
       "title": "(Karaoké) | Motel Motté | Bleu Jeans Bleu",
