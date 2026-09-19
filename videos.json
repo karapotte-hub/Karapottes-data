@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-09-18T18:14:43.800616",
-  "total": 2120,
+  "last_updated": "2026-09-19T11:49:13.399451",
+  "total": 2122,
   "channel_name": "Les Karapottés",
-  "subscribers": 1910,
-  "total_views": 860991,
-  "video_count": 2120,
+  "subscribers": 1920,
+  "total_views": 862394,
+  "video_count": 2122,
   "videos": [
+    {
+      "id": "Q6owtirh6NE",
+      "title": "(Karaoké) | Le gros flash mauve | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Le gros flash mauve",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Q6owtirh6NE/mqdefault.jpg"
+    },
+    {
+      "id": "WBW-ebaTlfs",
+      "title": "(Karaoké+V.Chanté) | Le gros flash mauve | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Le gros flash mauve",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/WBW-ebaTlfs/mqdefault.jpg"
+    },
     {
       "id": "jAIxdissB1g",
       "title": "(Karaoké) | Lettre à un cowboy | Mitsou et Clément Jacques",
