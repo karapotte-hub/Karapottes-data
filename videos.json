@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-09-19T19:05:02.966052",
-  "total": 2122,
+  "last_updated": "2026-09-22T15:39:25.373652",
+  "total": 2124,
   "channel_name": "Les Karapottés",
   "subscribers": 1920,
-  "total_views": 863635,
-  "video_count": 2122,
+  "total_views": 869609,
+  "video_count": 2124,
   "videos": [
+    {
+      "id": "zNvE639CJiI",
+      "title": "(Karaoké) | Comme j'ai toujours envie d'aimer | Marc Hammilton",
+      "artist": "Marc Hammilton",
+      "song": "Comme j'ai toujours envie d'aimer",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/zNvE639CJiI/mqdefault.jpg"
+    },
+    {
+      "id": "FpV184KKCes",
+      "title": "(Karaoké+V.Chanté) | Comme j'ai toujours envie d'aimer | Marc Hammilton",
+      "artist": "Marc Hammilton",
+      "song": "Comme j'ai toujours envie d'aimer",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/FpV184KKCes/mqdefault.jpg"
+    },
     {
       "id": "yVJfRp4j1Ys",
       "title": "(Karaoké) | Le gros flash mauve | Plume Latraverse",
