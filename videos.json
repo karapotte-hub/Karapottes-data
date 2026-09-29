@@ -1,11 +1,91 @@
 {
-  "last_updated": "2026-09-22T15:39:25.373652",
-  "total": 2124,
+  "last_updated": "2026-09-29T12:37:55.689172",
+  "total": 2134,
   "channel_name": "Les Karapottés",
-  "subscribers": 1920,
-  "total_views": 869609,
-  "video_count": 2124,
+  "subscribers": 1940,
+  "total_views": 884826,
+  "video_count": 2134,
   "videos": [
+    {
+      "id": "5aSaSmBbBUI",
+      "title": "(Karaoké+V.Chanté) | Ça nous fait pleurer | Anne Renée",
+      "artist": "Anne Renée",
+      "song": "Ça nous fait pleurer",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/5aSaSmBbBUI/mqdefault.jpg"
+    },
+    {
+      "id": "MW73iI27i_w",
+      "title": "(Karaoké) | Ça nous fait pleurer | Anne Renée",
+      "artist": "Anne Renée",
+      "song": "Ça nous fait pleurer",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/MW73iI27i_w/mqdefault.jpg"
+    },
+    {
+      "id": "4YTHgt5KZjA",
+      "title": "(Karaoké) | Montréal mon oeil | Capitaine Nô",
+      "artist": "Capitaine Nô",
+      "song": "Montréal mon oeil",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/4YTHgt5KZjA/mqdefault.jpg"
+    },
+    {
+      "id": "fVqa9_CNlc0",
+      "title": "(Karaoké+V.Chanté) | Montréal mon oeil | Capitaine Nô",
+      "artist": "Capitaine Nô",
+      "song": "Montréal mon oeil",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/fVqa9_CNlc0/mqdefault.jpg"
+    },
+    {
+      "id": "RW47TkagXyc",
+      "title": "(Karaoké) | Amoureuse | Marjo",
+      "artist": "Marjo",
+      "song": "Amoureuse",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/RW47TkagXyc/mqdefault.jpg"
+    },
+    {
+      "id": "QcVR5m3UYoY",
+      "title": "(Karaoké+V.Chanté) | Amoureuse | Marjo",
+      "artist": "Marjo",
+      "song": "Amoureuse",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/QcVR5m3UYoY/mqdefault.jpg"
+    },
+    {
+      "id": "MY_Z4Z5fTvA",
+      "title": "(Karaoké) | Hommage aux pêcheurs | Julie Daraiche",
+      "artist": "Julie Daraiche",
+      "song": "Hommage aux pêcheurs",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/MY_Z4Z5fTvA/mqdefault.jpg"
+    },
+    {
+      "id": "hZT-f7Js8ZA",
+      "title": "(Karaoké+V.Chanté) | Hommage aux pêcheurs | Julie Daraiche",
+      "artist": "Julie Daraiche",
+      "song": "Hommage aux pêcheurs",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/hZT-f7Js8ZA/mqdefault.jpg"
+    },
+    {
+      "id": "w_-dOpMuNTY",
+      "title": "(Karaoké) | Le goût de tes lèvres | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Le goût de tes lèvres",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/w_-dOpMuNTY/mqdefault.jpg"
+    },
+    {
+      "id": "AXQdaTXOBw8",
+      "title": "(Karaoké+V.Chanté) | Le goût de tes lèvres | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Le goût de tes lèvres",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/AXQdaTXOBw8/mqdefault.jpg"
+    },
     {
       "id": "zNvE639CJiI",
       "title": "(Karaoké) | Comme j'ai toujours envie d'aimer | Marc Hammilton",
