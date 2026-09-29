@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-09-29T12:37:55.689172",
-  "total": 2134,
+  "last_updated": "2026-09-29T15:01:26.655807",
+  "total": 2136,
   "channel_name": "Les Karapottés",
   "subscribers": 1940,
   "total_views": 884826,
-  "video_count": 2134,
+  "video_count": 2136,
   "videos": [
+    {
+      "id": "1JQuXyIkKGM",
+      "title": "(Karaoké) | Un train dans la nuit | Hervé Hovington",
+      "artist": "Hervé Hovington",
+      "song": "Un train dans la nuit",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/1JQuXyIkKGM/mqdefault.jpg"
+    },
+    {
+      "id": "_kfWOZ_MtZ0",
+      "title": "(Karaoké+V.Chanté) | Un train dans la nuit | Hervé Hovington",
+      "artist": "Hervé Hovington",
+      "song": "Un train dans la nuit",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/_kfWOZ_MtZ0/mqdefault.jpg"
+    },
     {
       "id": "5aSaSmBbBUI",
       "title": "(Karaoké+V.Chanté) | Ça nous fait pleurer | Anne Renée",
