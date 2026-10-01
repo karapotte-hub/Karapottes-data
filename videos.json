@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-09-29T15:01:26.655807",
-  "total": 2136,
+  "last_updated": "2026-09-30T21:44:00.836107",
+  "total": 2140,
   "channel_name": "Les Karapottés",
   "subscribers": 1940,
-  "total_views": 884826,
-  "video_count": 2136,
+  "total_views": 888447,
+  "video_count": 2140,
   "videos": [
+    {
+      "id": "mR-niicPHWU",
+      "title": "(Karaoké) | Et si moi je n'veux pas | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Et si moi je n'veux pas",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/mR-niicPHWU/mqdefault.jpg"
+    },
+    {
+      "id": "AE6rL5S79DI",
+      "title": "(Karaoké+V.Chanté) | Et si moi je n'veux pas | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Et si moi je n'veux pas",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/AE6rL5S79DI/mqdefault.jpg"
+    },
+    {
+      "id": "TsSGbu9J_Pc",
+      "title": "(Karaoké) | Et si moi je n'veux pas | Julie et les frères Duguay",
+      "artist": "Julie et les frères Duguay",
+      "song": "Et si moi je n'veux pas",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/TsSGbu9J_Pc/mqdefault.jpg"
+    },
+    {
+      "id": "pzw9UhcaDb0",
+      "title": "(Karaoké+V.Chanté) | Et si moi je n'veux pas | Julie et les frères Duguay",
+      "artist": "Julie et les frères Duguay",
+      "song": "Et si moi je n'veux pas",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/pzw9UhcaDb0/mqdefault.jpg"
+    },
     {
       "id": "1JQuXyIkKGM",
       "title": "(Karaoké) | Un train dans la nuit | Hervé Hovington",
