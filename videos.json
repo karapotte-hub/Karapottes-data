@@ -1,11 +1,107 @@
 {
-  "last_updated": "2026-09-30T21:44:00.836107",
-  "total": 2140,
+  "last_updated": "2026-10-06T14:35:25.743027",
+  "total": 2152,
   "channel_name": "Les Karapottés",
-  "subscribers": 1940,
-  "total_views": 888447,
-  "video_count": 2140,
+  "subscribers": 1950,
+  "total_views": 903132,
+  "video_count": 2152,
   "videos": [
+    {
+      "id": "CNMTqPNQiCw",
+      "title": "(Karaoké) | Parti pour la chasse | Louis Bérubé",
+      "artist": "Louis Bérubé",
+      "song": "Parti pour la chasse",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/CNMTqPNQiCw/mqdefault.jpg"
+    },
+    {
+      "id": "iaif_eKrPSo",
+      "title": "(Karaoké+Back Vocal) | Parti pour la chasse | Louis Bérubé",
+      "artist": "Louis Bérubé",
+      "song": "Parti pour la chasse",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/iaif_eKrPSo/mqdefault.jpg"
+    },
+    {
+      "id": "DNtaUeoiwG4",
+      "title": "(Karaoké+V.Chanté) | Parti pour la chasse | Louis Bérubé",
+      "artist": "Louis Bérubé",
+      "song": "Parti pour la chasse",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/DNtaUeoiwG4/mqdefault.jpg"
+    },
+    {
+      "id": "f0aPob2aeO0",
+      "title": "(Karaoké) | Sur le pavé | Hervé Hovington",
+      "artist": "Hervé Hovington",
+      "song": "Sur le pavé",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/f0aPob2aeO0/mqdefault.jpg"
+    },
+    {
+      "id": "4gBJHQmgFHo",
+      "title": "(Karaoké+V.Chanté) | Sur le pavé | Hervé Hovington",
+      "artist": "Hervé Hovington",
+      "song": "Sur le pavé",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/4gBJHQmgFHo/mqdefault.jpg"
+    },
+    {
+      "id": "jcyww2vvkrQ",
+      "title": "(Karaoké) | On s'aime tu pour la vie | Jace",
+      "artist": "Jace",
+      "song": "On s'aime tu pour la vie",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/jcyww2vvkrQ/mqdefault.jpg"
+    },
+    {
+      "id": "0EKQMAzDuJQ",
+      "title": "(Karaoké+V.Chanté) | On s'aime tu pour la vie | Jace",
+      "artist": "Jace",
+      "song": "On s'aime tu pour la vie",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/0EKQMAzDuJQ/mqdefault.jpg"
+    },
+    {
+      "id": "ulKnb7OvVRs",
+      "title": "(Karaoké) | 5, 6, 7, 8 | Irvin Blais",
+      "artist": "Irvin Blais",
+      "song": "5, 6, 7, 8",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/ulKnb7OvVRs/mqdefault.jpg"
+    },
+    {
+      "id": "DWfZtNxd2Yo",
+      "title": "(Karaoké+V.Chanté) | 5, 6, 7, 8 | Irvin Blais",
+      "artist": "Irvin Blais",
+      "song": "5, 6, 7, 8",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/DWfZtNxd2Yo/mqdefault.jpg"
+    },
+    {
+      "id": "MxdtMbN03Uk",
+      "title": "(Karaoké) | Oui pis non | Salebarbes",
+      "artist": "Salebarbes",
+      "song": "Oui pis non",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/MxdtMbN03Uk/mqdefault.jpg"
+    },
+    {
+      "id": "I0yDZz0SIIw",
+      "title": "(Karaoké+Back Vocal) | Oui pis non | Salebarbes",
+      "artist": "Salebarbes",
+      "song": "Oui pis non",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/I0yDZz0SIIw/mqdefault.jpg"
+    },
+    {
+      "id": "TW2ffkyM2J8",
+      "title": "(Karaoké+V.Chanté) | Oui pis non | Salebarbes",
+      "artist": "Salebarbes",
+      "song": "Oui pis non",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/TW2ffkyM2J8/mqdefault.jpg"
+    },
     {
       "id": "mR-niicPHWU",
       "title": "(Karaoké) | Et si moi je n'veux pas | Dj.Pete",
