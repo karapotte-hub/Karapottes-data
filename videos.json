@@ -1,11 +1,83 @@
 {
-  "last_updated": "2026-10-06T14:35:25.743027",
-  "total": 2152,
+  "last_updated": "2026-10-10T10:17:31.875576",
+  "total": 2161,
   "channel_name": "Les Karapottés",
-  "subscribers": 1950,
-  "total_views": 903132,
-  "video_count": 2152,
+  "subscribers": 1960,
+  "total_views": 910182,
+  "video_count": 2161,
   "videos": [
+    {
+      "id": "KMzgX65CEkM",
+      "title": "(Karaoké) | L’ange perdu | Noir Silence",
+      "artist": "Noir Silence",
+      "song": "L’ange perdu",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/KMzgX65CEkM/mqdefault.jpg"
+    },
+    {
+      "id": "FvfrWrh3pvo",
+      "title": "(Karaoké+Back Vocal) | L’ange perdu | Noir Silence",
+      "artist": "Noir Silence",
+      "song": "L’ange perdu",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/FvfrWrh3pvo/mqdefault.jpg"
+    },
+    {
+      "id": "J74iJIqrIc4",
+      "title": "(Karaoké+V.Chanté) | L’ange perdu | Noir Silence",
+      "artist": "Noir Silence",
+      "song": "L’ange perdu",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/J74iJIqrIc4/mqdefault.jpg"
+    },
+    {
+      "id": "dBvkY_bFINc",
+      "title": "(Karaoké) | Turlupinades | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Turlupinades",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/dBvkY_bFINc/mqdefault.jpg"
+    },
+    {
+      "id": "iS4cVUOrkSw",
+      "title": "(Karaoké+V.Chanté) | Turlupinades | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Turlupinades",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/iS4cVUOrkSw/mqdefault.jpg"
+    },
+    {
+      "id": "HEsoh5KoPnA",
+      "title": "Abonne-toi au patreon",
+      "artist": "Divers",
+      "song": "Abonne-toi au patreon",
+      "type": "autre",
+      "thumb": "https://i.ytimg.com/vi/HEsoh5KoPnA/mqdefault.jpg"
+    },
+    {
+      "id": "NwRV7LW5e_E",
+      "title": "(Karaoké) | Le vieux Gaspésien | Paul Daraîche",
+      "artist": "Paul Daraîche",
+      "song": "Le vieux Gaspésien",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/NwRV7LW5e_E/mqdefault.jpg"
+    },
+    {
+      "id": "a7tCdHagIQ8",
+      "title": "(Karaoké+Back Vocal) | Le vieux Gaspésien | Paul Daraîche",
+      "artist": "Paul Daraîche",
+      "song": "Le vieux Gaspésien",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/a7tCdHagIQ8/mqdefault.jpg"
+    },
+    {
+      "id": "jXSmTQfySLA",
+      "title": "(Karaoké+V.Chanté) | Le vieux Gaspésien | Paul Daraîche",
+      "artist": "Paul Daraîche",
+      "song": "Le vieux Gaspésien",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/jXSmTQfySLA/mqdefault.jpg"
+    },
     {
       "id": "CNMTqPNQiCw",
       "title": "(Karaoké) | Parti pour la chasse | Louis Bérubé",
