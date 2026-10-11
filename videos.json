@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-10-10T10:17:31.875576",
-  "total": 2161,
+  "last_updated": "2026-10-11T09:12:59.078990",
+  "total": 2167,
   "channel_name": "Les Karapottés",
-  "subscribers": 1960,
-  "total_views": 910182,
-  "video_count": 2161,
+  "subscribers": 1970,
+  "total_views": 913062,
+  "video_count": 2167,
   "videos": [
+    {
+      "id": "CiA6jx1JZQk",
+      "title": "(Karaoké) | Dans mon beau pays | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Dans mon beau pays",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/CiA6jx1JZQk/mqdefault.jpg"
+    },
+    {
+      "id": "2LmCfNm3VoQ",
+      "title": "(Karaoké+Back Vocal) | Dans mon beau pays | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Dans mon beau pays",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/2LmCfNm3VoQ/mqdefault.jpg"
+    },
+    {
+      "id": "QO_AYgkRh4w",
+      "title": "(Karaoké+V.Chanté) | Dans mon beau pays | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Dans mon beau pays",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/QO_AYgkRh4w/mqdefault.jpg"
+    },
+    {
+      "id": "gokbGb1t2-A",
+      "title": "(Karaoké) | J'apprend à danser | Manon Bédard",
+      "artist": "Manon Bédard",
+      "song": "J'apprend à danser",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/gokbGb1t2-A/mqdefault.jpg"
+    },
+    {
+      "id": "RXBriZcJhps",
+      "title": "(Karaoké+Back Vocal) | J'apprend à danser | Manon Bédard",
+      "artist": "Manon Bédard",
+      "song": "J'apprend à danser",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/RXBriZcJhps/mqdefault.jpg"
+    },
+    {
+      "id": "DcYqm4AvOmg",
+      "title": "(Karaoké+V.Chanté) | J'apprend à danser | Manon Bédard",
+      "artist": "Manon Bédard",
+      "song": "J'apprend à danser",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/DcYqm4AvOmg/mqdefault.jpg"
+    },
     {
       "id": "KMzgX65CEkM",
       "title": "(Karaoké) | L’ange perdu | Noir Silence",
