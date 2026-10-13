@@ -1,11 +1,83 @@
 {
-  "last_updated": "2026-10-11T09:12:59.078990",
-  "total": 2167,
+  "last_updated": "2026-10-13T13:36:43.369830",
+  "total": 2176,
   "channel_name": "Les Karapottés",
   "subscribers": 1970,
-  "total_views": 913062,
-  "video_count": 2167,
+  "total_views": 918363,
+  "video_count": 2176,
   "videos": [
+    {
+      "id": "dPRdlTxBRyg",
+      "title": "(Karaoké) | C'est gens de l'Acadie | Keven Chouinard",
+      "artist": "Keven Chouinard",
+      "song": "C'est gens de l'Acadie",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/dPRdlTxBRyg/mqdefault.jpg"
+    },
+    {
+      "id": "8vonMrCt9ok",
+      "title": "(Karaoké+V.Chanté) | C'est gens de l'Acadie | Keven Chouinard",
+      "artist": "Keven Chouinard",
+      "song": "C'est gens de l'Acadie",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/8vonMrCt9ok/mqdefault.jpg"
+    },
+    {
+      "id": "YZkrLx0-oxw",
+      "title": "(Karaoké) | J'm'en câlisse | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "J'm'en câlisse",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/YZkrLx0-oxw/mqdefault.jpg"
+    },
+    {
+      "id": "1F6i3mjHBmI",
+      "title": "(Karaoké+V.Chanté) | J'm'en câlisse | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "J'm'en câlisse",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/1F6i3mjHBmI/mqdefault.jpg"
+    },
+    {
+      "id": "H4KtNQIiSgI",
+      "title": "(Karaoké) | Danser seul | Denis Richard",
+      "artist": "Denis Richard",
+      "song": "Danser seul",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/H4KtNQIiSgI/mqdefault.jpg"
+    },
+    {
+      "id": "D2r70BI2UMo",
+      "title": "(Karaoké+Back Vocal) | Danser seul | Denis Richard",
+      "artist": "Denis Richard",
+      "song": "Danser seul",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/D2r70BI2UMo/mqdefault.jpg"
+    },
+    {
+      "id": "ruimZYrxcM4",
+      "title": "(Karaoké+V.Chanté) | Danser seul | Denis Richard",
+      "artist": "Denis Richard",
+      "song": "Danser seul",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/ruimZYrxcM4/mqdefault.jpg"
+    },
+    {
+      "id": "WAX5OjP3FTI",
+      "title": "(Karaoké) | Quand la route veux pu d'moé | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Quand la route veux pu d'moé",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/WAX5OjP3FTI/mqdefault.jpg"
+    },
+    {
+      "id": "-WUXk2yx7pk",
+      "title": "(Karaoké+V.Chanté) | Quand la route veux pu d'moé | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Quand la route veux pu d'moé",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/-WUXk2yx7pk/mqdefault.jpg"
+    },
     {
       "id": "CiA6jx1JZQk",
       "title": "(Karaoké) | Dans mon beau pays | Dj.Pete",
@@ -96,9 +168,9 @@
     },
     {
       "id": "HEsoh5KoPnA",
-      "title": "Abonne-toi au patreon",
+      "title": "[Hors-Série] Abonne-toi au patreon",
       "artist": "Divers",
-      "song": "Abonne-toi au patreon",
+      "song": "[Hors-Série] Abonne-toi au patreon",
       "type": "autre",
       "thumb": "https://i.ytimg.com/vi/HEsoh5KoPnA/mqdefault.jpg"
     },
