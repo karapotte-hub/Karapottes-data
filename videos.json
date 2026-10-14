@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-10-13T13:36:43.369830",
-  "total": 2176,
+  "last_updated": "2026-10-14T16:21:13.169953",
+  "total": 2179,
   "channel_name": "Les Karapottés",
-  "subscribers": 1970,
-  "total_views": 918363,
-  "video_count": 2176,
+  "subscribers": 1980,
+  "total_views": 923745,
+  "video_count": 2179,
   "videos": [
+    {
+      "id": "mZDHEE3c18w",
+      "title": "(Karaoké) | Enlevez-moi ça | Keven Chouinard",
+      "artist": "Keven Chouinard",
+      "song": "Enlevez-moi ça",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/mZDHEE3c18w/mqdefault.jpg"
+    },
+    {
+      "id": "TSfZoVCwWmo",
+      "title": "(Karaoké+Back Vocal) | Enlevez-moi ça | Keven Chouinard",
+      "artist": "Keven Chouinard",
+      "song": "Enlevez-moi ça",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/TSfZoVCwWmo/mqdefault.jpg"
+    },
+    {
+      "id": "GZ0x6EEcUno",
+      "title": "(Karaoké+V.Chanté) | Enlevez-moi ça | Keven Chouinard",
+      "artist": "Keven Chouinard",
+      "song": "Enlevez-moi ça",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/GZ0x6EEcUno/mqdefault.jpg"
+    },
     {
       "id": "dPRdlTxBRyg",
       "title": "(Karaoké) | C'est gens de l'Acadie | Keven Chouinard",
