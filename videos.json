@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-10-14T16:21:13.169953",
-  "total": 2179,
+  "last_updated": "2026-10-16T11:31:42.446724",
+  "total": 2183,
   "channel_name": "Les Karapottés",
   "subscribers": 1980,
-  "total_views": 923745,
-  "video_count": 2179,
+  "total_views": 927948,
+  "video_count": 2183,
   "videos": [
+    {
+      "id": "tC7O8vcbUEI",
+      "title": "(Karaoké) | J'pas un Cowboy | Lisa Leblanc",
+      "artist": "Lisa Leblanc",
+      "song": "J'pas un Cowboy",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/tC7O8vcbUEI/mqdefault.jpg"
+    },
+    {
+      "id": "FBGg15DEG4Q",
+      "title": "(Karaoké+V.Chanté) | J'pas un Cowboy | Lisa Leblanc",
+      "artist": "Lisa Leblanc",
+      "song": "J'pas un Cowboy",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/FBGg15DEG4Q/mqdefault.jpg"
+    },
+    {
+      "id": "YF7sncm0qMg",
+      "title": "(Karaoké) | Quand je t'aime | Demis Roussos",
+      "artist": "Demis Roussos",
+      "song": "Quand je t'aime",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/YF7sncm0qMg/mqdefault.jpg"
+    },
+    {
+      "id": "K55RLADbGk8",
+      "title": "(Karaoké+V.Chanté) | Quand je t'aime | Demis Roussos",
+      "artist": "Demis Roussos",
+      "song": "Quand je t'aime",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/K55RLADbGk8/mqdefault.jpg"
+    },
     {
       "id": "mZDHEE3c18w",
       "title": "(Karaoké) | Enlevez-moi ça | Keven Chouinard",
