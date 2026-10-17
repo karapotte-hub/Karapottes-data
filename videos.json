@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-10-16T11:31:42.446724",
-  "total": 2183,
+  "last_updated": "2026-10-17T12:53:07.308585",
+  "total": 2186,
   "channel_name": "Les Karapottés",
   "subscribers": 1980,
-  "total_views": 927948,
-  "video_count": 2183,
+  "total_views": 931128,
+  "video_count": 2186,
   "videos": [
+    {
+      "id": "W_Y_dlr4mLM",
+      "title": "(Karaoké) | La dame en bleu | Michel Louvain",
+      "artist": "Michel Louvain",
+      "song": "La dame en bleu",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/W_Y_dlr4mLM/mqdefault.jpg"
+    },
+    {
+      "id": "sSfO72fIDEs",
+      "title": "(Karaoké+Back Vocal) | La dame en bleu | Michel Louvain",
+      "artist": "Michel Louvain",
+      "song": "La dame en bleu",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/sSfO72fIDEs/mqdefault.jpg"
+    },
+    {
+      "id": "60VK4YzyDsw",
+      "title": "(Karaoké+V.Chanté) | La dame en bleu | Michel Louvain",
+      "artist": "Michel Louvain",
+      "song": "La dame en bleu",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/60VK4YzyDsw/mqdefault.jpg"
+    },
     {
       "id": "tC7O8vcbUEI",
       "title": "(Karaoké) | J'pas un Cowboy | Lisa Leblanc",
