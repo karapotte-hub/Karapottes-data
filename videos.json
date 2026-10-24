@@ -1,11 +1,147 @@
 {
-  "last_updated": "2026-10-17T12:53:07.308585",
-  "total": 2186,
+  "last_updated": "2026-10-23T21:22:05.138029",
+  "total": 2203,
   "channel_name": "Les Karapottés",
-  "subscribers": 1980,
-  "total_views": 931128,
-  "video_count": 2186,
+  "subscribers": 2000,
+  "total_views": 949562,
+  "video_count": 2203,
   "videos": [
+    {
+      "id": "Ix0M6xGWWCM",
+      "title": "(Karaoké) | Diggy diggy ly | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Diggy diggy ly",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Ix0M6xGWWCM/mqdefault.jpg"
+    },
+    {
+      "id": "_DyLIdPlBuI",
+      "title": "(Karaoké+Back Vocal) | Diggy diggy ly | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Diggy diggy ly",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/_DyLIdPlBuI/mqdefault.jpg"
+    },
+    {
+      "id": "lXkEAIM5b2c",
+      "title": "(Karaoké+V.Chanté) | Diggy diggy ly | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Diggy diggy ly",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/lXkEAIM5b2c/mqdefault.jpg"
+    },
+    {
+      "id": "7yMpeI-hKa8",
+      "title": "[Hors Série) 2000 abonnés, Merci!",
+      "artist": "Divers",
+      "song": "[Hors Série) 2000 abonnés, Merci!",
+      "type": "autre",
+      "thumb": "https://i.ytimg.com/vi/7yMpeI-hKa8/mqdefault.jpg"
+    },
+    {
+      "id": "MymuBXT1frE",
+      "title": "(Karaoké) | J'vas passer l'hiver ailleurs | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "J'vas passer l'hiver ailleurs",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/MymuBXT1frE/mqdefault.jpg"
+    },
+    {
+      "id": "zLeUoBOwsPk",
+      "title": "(Karaoké+Back Vocal) | J'vas passer l'hiver ailleurs | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "J'vas passer l'hiver ailleurs",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/zLeUoBOwsPk/mqdefault.jpg"
+    },
+    {
+      "id": "oP9eGLYbtCI",
+      "title": "(Karaoké+V.Chanté) | J'vas passer l'hiver ailleurs | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "J'vas passer l'hiver ailleurs",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/oP9eGLYbtCI/mqdefault.jpg"
+    },
+    {
+      "id": "u5rrtiMK-pI",
+      "title": "(Karaoké) | Demande au soleil | Garou",
+      "artist": "Garou",
+      "song": "Demande au soleil",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/u5rrtiMK-pI/mqdefault.jpg"
+    },
+    {
+      "id": "-IGXlcBjroY",
+      "title": "(Karaoké+Back Vocal) | Demande au soleil | Garou",
+      "artist": "Garou",
+      "song": "Demande au soleil",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/-IGXlcBjroY/mqdefault.jpg"
+    },
+    {
+      "id": "G2GyKOHGxoc",
+      "title": "(Karaoké+V.Chanté) | Demande au soleil | Garou",
+      "artist": "Garou",
+      "song": "Demande au soleil",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/G2GyKOHGxoc/mqdefault.jpg"
+    },
+    {
+      "id": "DbyryX60Jdo",
+      "title": "(Karaoké) | Étreintes | Daniel Bélanger",
+      "artist": "Daniel Bélanger",
+      "song": "Étreintes",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/DbyryX60Jdo/mqdefault.jpg"
+    },
+    {
+      "id": "MM3PTEspHvM",
+      "title": "(Karaoké+V.Chanté) | Étreintes | Daniel Bélanger",
+      "artist": "Daniel Bélanger",
+      "song": "Étreintes",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/MM3PTEspHvM/mqdefault.jpg"
+    },
+    {
+      "id": "UQqgEXdF7Vc",
+      "title": "(Karaoké) | Lorsque l'amour s'en va | Gilles Girard",
+      "artist": "Gilles Girard",
+      "song": "Lorsque l'amour s'en va",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/UQqgEXdF7Vc/mqdefault.jpg"
+    },
+    {
+      "id": "lBkVxpFKF20",
+      "title": "(Karaoké+V.Chanté) | Lorsque l'amour s'en va | Gilles Girard",
+      "artist": "Gilles Girard",
+      "song": "Lorsque l'amour s'en va",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/lBkVxpFKF20/mqdefault.jpg"
+    },
+    {
+      "id": "8pecee1QJBY",
+      "title": "(Karaoké) | Acadiana | Georges Langford",
+      "artist": "Georges Langford",
+      "song": "Acadiana",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/8pecee1QJBY/mqdefault.jpg"
+    },
+    {
+      "id": "wAE7-PCvYXA",
+      "title": "(Karaoké+Back Vocal) | Acadiana | Georges Langford",
+      "artist": "Georges Langford",
+      "song": "Acadiana",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/wAE7-PCvYXA/mqdefault.jpg"
+    },
+    {
+      "id": "su9A6n7fJlQ",
+      "title": "(Karaoké+V.Chanté) | Acadiana | Georges Langford",
+      "artist": "Georges Langford",
+      "song": "Acadiana",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/su9A6n7fJlQ/mqdefault.jpg"
+    },
     {
       "id": "W_Y_dlr4mLM",
       "title": "(Karaoké) | La dame en bleu | Michel Louvain",
@@ -16676,7 +16812,7 @@
       "artist": "Divers",
       "song": "Diffusion en direct de Les Karapottés",
       "type": "autre",
-      "thumb": "https://i.ytimg.com/vi/MgbMahbX4Rg/mqdefault_live.jpg"
+      "thumb": "https://i.ytimg.com/vi/MgbMahbX4Rg/mqdefault.jpg"
     },
     {
       "id": "kZsOP0O_xc8",
