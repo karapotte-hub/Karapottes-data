@@ -1,11 +1,83 @@
 {
-  "last_updated": "2026-10-23T21:22:05.138029",
-  "total": 2203,
+  "last_updated": "2026-10-26T17:42:36.667833",
+  "total": 2212,
   "channel_name": "Les Karapottés",
-  "subscribers": 2000,
-  "total_views": 949562,
-  "video_count": 2203,
+  "subscribers": 2010,
+  "total_views": 958880,
+  "video_count": 2212,
   "videos": [
+    {
+      "id": "mr8XuisMsp4",
+      "title": "Merci pour la nuit (Karaoke) - Laurence St-Martin",
+      "artist": "Merci pour la nuit (Karaoke)",
+      "song": "Laurence St-Martin",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/mr8XuisMsp4/mqdefault.jpg"
+    },
+    {
+      "id": "QXFng6f_vg0",
+      "title": "Merci pour la nuit (Karaoke+Back Vocal) - Laurence St-Martin",
+      "artist": "Merci pour la nuit (Karaoke+Back Vocal)",
+      "song": "Laurence St-Martin",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/QXFng6f_vg0/mqdefault.jpg"
+    },
+    {
+      "id": "Et4dTebaVPY",
+      "title": "Merci pour la nuit (Karaoke+V.Chanté) - Laurence St-Martin",
+      "artist": "Merci pour la nuit (Karaoke+V.Chanté)",
+      "song": "Laurence St-Martin",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Et4dTebaVPY/mqdefault.jpg"
+    },
+    {
+      "id": "jRd8lfSXllw",
+      "title": "(Karaoké) | Le tour des maisons | Georges Langford",
+      "artist": "Georges Langford",
+      "song": "Le tour des maisons",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/jRd8lfSXllw/mqdefault.jpg"
+    },
+    {
+      "id": "9opSWoxOFu4",
+      "title": "(Karaoké+Back Vocal) | Le tour des maisons | Georges Langford",
+      "artist": "Georges Langford",
+      "song": "Le tour des maisons",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/9opSWoxOFu4/mqdefault.jpg"
+    },
+    {
+      "id": "dsL1Nj3nojA",
+      "title": "(Karaoké+V.Chanté) | Le tour des maisons | Georges Langford",
+      "artist": "Georges Langford",
+      "song": "Le tour des maisons",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/dsL1Nj3nojA/mqdefault.jpg"
+    },
+    {
+      "id": "OrI0W4dsA-w",
+      "title": "(Karaoké) | Diggy diggy ly | Manon Bédard",
+      "artist": "Manon Bédard",
+      "song": "Diggy diggy ly",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/OrI0W4dsA-w/mqdefault.jpg"
+    },
+    {
+      "id": "KaQuZO0dJYM",
+      "title": "(Karaoké+Back Vocal) | Diggy diggy ly | Manon Bédard",
+      "artist": "Manon Bédard",
+      "song": "Diggy diggy ly",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/KaQuZO0dJYM/mqdefault.jpg"
+    },
+    {
+      "id": "eqXWN6f-t0o",
+      "title": "(Karaoké+V.Chanté) | Diggy diggy ly | Manon Bédard",
+      "artist": "Manon Bédard",
+      "song": "Diggy diggy ly",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/eqXWN6f-t0o/mqdefault.jpg"
+    },
     {
       "id": "Ix0M6xGWWCM",
       "title": "(Karaoké) | Diggy diggy ly | Dj.Pete",
