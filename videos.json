@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-10-26T17:44:18.265502",
-  "total": 2212,
+  "last_updated": "2026-10-31T07:31:38.101588",
+  "total": 2218,
   "channel_name": "Les Karapottés",
-  "subscribers": 2010,
-  "total_views": 958880,
-  "video_count": 2212,
+  "subscribers": 2020,
+  "total_views": 968120,
+  "video_count": 2217,
   "videos": [
+    {
+      "id": "d1itQNE72iI",
+      "title": "(Karaoké) | Oh! Cher, veux-tu venir danser | Édith Butler",
+      "artist": "Édith Butler",
+      "song": "Oh! Cher, veux-tu venir danser",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/d1itQNE72iI/mqdefault.jpg"
+    },
+    {
+      "id": "_vz3o4eIG94",
+      "title": "(Karaoké+Back Vocal) | Oh! Cher, veux-tu venir danser | Édith Butler",
+      "artist": "Édith Butler",
+      "song": "Oh! Cher, veux-tu venir danser",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/_vz3o4eIG94/mqdefault.jpg"
+    },
+    {
+      "id": "L-mMUwckyb4",
+      "title": "(Karaoké+V.Chanté) | Oh! Cher, veux-tu venir danser | Édith Butler",
+      "artist": "Édith Butler",
+      "song": "Oh! Cher, veux-tu venir danser",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/L-mMUwckyb4/mqdefault.jpg"
+    },
+    {
+      "id": "Y9nVCG539WA",
+      "title": "(Karaoké) | Honky-Tonk Bar | Véronique Labbé",
+      "artist": "Véronique Labbé",
+      "song": "Honky-Tonk Bar",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Y9nVCG539WA/mqdefault.jpg"
+    },
+    {
+      "id": "a053UpiZaf4",
+      "title": "(Karaoké+Back Vocal) | Honky-Tonk Bar | Véronique Labbé",
+      "artist": "Véronique Labbé",
+      "song": "Honky-Tonk Bar",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/a053UpiZaf4/mqdefault.jpg"
+    },
+    {
+      "id": "ETP7vrOmdWo",
+      "title": "(Karaoké+V.Chanté) | Honky-Tonk Bar | Véronique Labbé",
+      "artist": "Véronique Labbé",
+      "song": "Honky-Tonk Bar",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/ETP7vrOmdWo/mqdefault.jpg"
+    },
     {
       "id": "mr8XuisMsp4",
       "title": "Merci pour la nuit (Karaoke) - Laurence St-Martin",
