@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-10-31T09:02:25.989366",
-  "total": 2217,
+  "last_updated": "2026-11-06T08:05:18.337211",
+  "total": 2224,
   "channel_name": "Les Karapottés",
-  "subscribers": 2020,
-  "total_views": 968120,
-  "video_count": 2217,
+  "subscribers": 2040,
+  "total_views": 984011,
+  "video_count": 2224,
   "videos": [
+    {
+      "id": "Qev87PhM_L0",
+      "title": "(Karaoké) | Le mur d'acier | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Le mur d'acier",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Qev87PhM_L0/mqdefault.jpg"
+    },
+    {
+      "id": "XX5HFShVhq4",
+      "title": "(Karaoké+V.Chanté) | Le mur d'acier | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Le mur d'acier",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/XX5HFShVhq4/mqdefault.jpg"
+    },
+    {
+      "id": "avlN0OaO1BI",
+      "title": "(Karaoké) | Guitare Cadillac | Daniel Dan",
+      "artist": "Daniel Dan",
+      "song": "Guitare Cadillac",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/avlN0OaO1BI/mqdefault.jpg"
+    },
+    {
+      "id": "dr0hWUqh6lY",
+      "title": "(Karaoké+Back Vocal) | Guitare Cadillac | Daniel Dan",
+      "artist": "Daniel Dan",
+      "song": "Guitare Cadillac",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/dr0hWUqh6lY/mqdefault.jpg"
+    },
+    {
+      "id": "YBUphbzJiUk",
+      "title": "(Karaoké+V.Chanté) | Guitare Cadillac | Daniel Dan",
+      "artist": "Daniel Dan",
+      "song": "Guitare Cadillac",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/YBUphbzJiUk/mqdefault.jpg"
+    },
+    {
+      "id": "c42032QvniU",
+      "title": "(Karaoké+V.Chanté) | La dernière pêche | Georges Langford",
+      "artist": "Georges Langford",
+      "song": "La dernière pêche",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/c42032QvniU/mqdefault.jpg"
+    },
+    {
+      "id": "M4zlnSCSkPA",
+      "title": "(Karaoké) | La dernière pêche | Georges Langford",
+      "artist": "Georges Langford",
+      "song": "La dernière pêche",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/M4zlnSCSkPA/mqdefault.jpg"
+    },
     {
       "id": "d1itQNE72iI",
       "title": "(Karaoké) | Oh! Cher, veux-tu venir danser | Édith Butler",
