@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-11-06T08:05:18.337211",
-  "total": 2224,
+  "last_updated": "2026-11-06T10:11:30.082211",
+  "total": 2227,
   "channel_name": "Les Karapottés",
   "subscribers": 2040,
   "total_views": 984011,
-  "video_count": 2224,
+  "video_count": 2227,
   "videos": [
+    {
+      "id": "-pXtROz-g64",
+      "title": "(Karaoké) | Aiko aiko | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Aiko aiko",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/-pXtROz-g64/mqdefault.jpg"
+    },
+    {
+      "id": "hrXZbhItUP0",
+      "title": "(Karaoké+Back Vocal) | Aiko aiko | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Aiko aiko",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/hrXZbhItUP0/mqdefault.jpg"
+    },
+    {
+      "id": "Frqu35JcSWY",
+      "title": "(Karaoké+V.Chanté) | Aiko aiko | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Aiko aiko",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Frqu35JcSWY/mqdefault.jpg"
+    },
     {
       "id": "Qev87PhM_L0",
       "title": "(Karaoké) | Le mur d'acier | Dj.Pete",
